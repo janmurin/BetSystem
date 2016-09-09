@@ -1,0 +1,77 @@
+[{"id":"0", "name":"England", "name_SK":"Anglicko"}
+, {"id":"1", "name":"Argentina", "name_SK":"Argentína"}
+, {"id":"2", "name":"Armenia", "name_SK":"Arménsko"}
+, {"id":"3", "name":"Australia", "name_SK":"Austrália"}
+, {"id":"4", "name":"Azerbaijan", "name_SK":"Azerbajdžan"}
+, {"id":"5", "name":"Bahrain", "name_SK":"Bahrajn"}
+, {"id":"6", "name":"Belgium", "name_SK":"Belgicko"}
+, {"id":"7", "name":"Belarus", "name_SK":"Bielorusko"}
+, {"id":"8", "name":"Bolivia", "name_SK":"Bolívia"}
+, {"id":"9", "name":"Bosna/Herc.", "name_SK":"Bosna/Herc."}
+, {"id":"10", "name":"Brazil", "name_SK":"Brazília"}
+, {"id":"11", "name":"Bulgaria", "name_SK":"Bulharsko"}
+, {"id":"12", "name":"Croatia", "name_SK":"Chorvátsko"}
+, {"id":"13", "name":"Cyprus", "name_SK":"Cyprus"}
+, {"id":"14", "name":"Denmark", "name_SK":"Dánsko"}
+, {"id":"15", "name":"Egypt", "name_SK":"Egypt"}
+, {"id":"16", "name":"Ecuador", "name_SK":"Ekvádor"}
+, {"id":"17", "name":"Estonia", "name_SK":"Estónsko"}
+, {"id":"18", "name":"France", "name_SK":"Francúzsko"}
+, {"id":"19", "name":"Finland", "name_SK":"Fínsko"}
+, {"id":"20", "name":"Greece", "name_SK":"Grécko"}
+, {"id":"21", "name":"Guatelama", "name_SK":"Guatemala"}
+, {"id":"22", "name":"Netherlands", "name_SK":"Holandsko"}
+, {"id":"23", "name":"Honduras", "name_SK":"Honduras"}
+, {"id":"24", "name":"India", "name_SK":"India"}
+, {"id":"25", "name":"Iceland", "name_SK":"Island"}
+, {"id":"26", "name":"Israel", "name_SK":"Izrael"}
+, {"id":"27", "name":"Japan", "name_SK":"Japonsko"}
+, {"id":"28", "name":"South Africa", "name_SK":"Južná Afrika"}
+, {"id":"29", "name":"South Korea", "name_SK":"Južná Kórea"}
+, {"id":"30", "name":"Canada", "name_SK":"Kanada"}
+, {"id":"31", "name":"Qatar", "name_SK":"Katar"}
+, {"id":"32", "name":"Kazakhstan", "name_SK":"Kazachstan"}
+, {"id":"33", "name":"Colombia", "name_SK":"Kolumbia"}
+, {"id":"34", "name":"Costarica", "name_SK":"Kostarika"}
+, {"id":"35", "name":"Lithuania", "name_SK":"Litva"}
+, {"id":"36", "name":"Latvia", "name_SK":"Lotyšsko"}
+, {"id":"37", "name":"Malta", "name_SK":"Malta"}
+, {"id":"38", "name":"Hungary", "name_SK":"Maďarsko"}
+, {"id":"39", "name":"Mexico", "name_SK":"Mexiko"}
+, {"id":"40", "name":"Germany", "name_SK":"Nemecko"}
+, {"id":"41", "name":"New Zealand", "name_SK":"Nový Zéland"}
+, {"id":"42", "name":"Norway", "name_SK":"Nórsko"}
+, {"id":"43", "name":"Other", "name_SK":"Ostatné"}
+, {"id":"44", "name":"Panama", "name_SK":"Panama"}
+, {"id":"45", "name":"Paraguay", "name_SK":"Paraguay"}
+, {"id":"46", "name":"Peru", "name_SK":"Peru"}
+, {"id":"47", "name":"Portugal", "name_SK":"Portugalsko"}
+, {"id":"48", "name":"Poland", "name_SK":"Poľsko"}
+, {"id":"49", "name":"Austria", "name_SK":"Rakúsko"}
+, {"id":"50", "name":"Romania", "name_SK":"Rumunsko"}
+, {"id":"51", "name":"Russia", "name_SK":"Rusko"}
+, {"id":"52", "name":"UAE", "name_SK":"SAE"}
+, {"id":"53", "name":"Salvador", "name_SK":"Salvádor"}
+, {"id":"54", "name":"Saudi Arabia", "name_SK":"Saudská Arábia"}
+, {"id":"55", "name":"N.Ireland", "name_SK":"Sev.Írsko"}
+, {"id":"56", "name":"Singapore", "name_SK":"Singapur"}
+, {"id":"57", "name":"Slovakia", "name_SK":"Slovensko"}
+, {"id":"58", "name":"Slovenia", "name_SK":"Slovinsko"}
+, {"id":"59", "name":"Serbia", "name_SK":"Srbsko"}
+, {"id":"60", "name":"Italia", "name_SK":"Taliansko"}
+, {"id":"61", "name":"Turkey", "name_SK":"Turecko"}
+, {"id":"62", "name":"USA", "name_SK":"USA"}
+, {"id":"63", "name":"Ukraine", "name_SK":"Ukrajina"}
+, {"id":"64", "name":"Uruguay", "name_SK":"Uruguay"}
+, {"id":"65", "name":"Venezuela", "name_SK":"Venezuela"}
+, {"id":"66", "name":"Vietnam", "name_SK":"Vietnam"}
+, {"id":"67", "name":"Wales", "name_SK":"Wales"}
+, {"id":"68", "name":"Ireland", "name_SK":"Írsko"}
+, {"id":"69", "name":"Czech Republic", "name_SK":"Česko"}
+, {"id":"70", "name":"Chile", "name_SK":"Čile"}
+, {"id":"71", "name":"China", "name_SK":"Čína"}
+, {"id":"72", "name":"Scotland", "name_SK":"Škótsko"}
+, {"id":"73", "name":"Spain", "name_SK":"Španielsko"}
+, {"id":"74", "name":"Switzerland", "name_SK":"Švajčiarsko"}
+, {"id":"75", "name":"Sweden", "name_SK":"Švédsko"}
+]

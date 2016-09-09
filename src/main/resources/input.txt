@@ -1,0 +1,2503 @@
+sport=Futbal, league=2.Švajčiarsko, competitor=Schaffhausen<-
+sport=Futbal, league=4.Anglicko, competitor=Cambridge<-
+sport=Futbal, league=2.Turecko, competitor=Sanliurfa<-
+sport=Futbal, league=3.Taliansko A, competitor=Como<-
+sport=Futbal, league=1.Salvádor, competitor=Santa Tecla<-
+sport=Futbal, league=1.Nórsko, competitor=Sogndal<-
+sport=Futbal, league=1.Holandsko, competitor=Ajax<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Talavera<-
+sport=Futbal, league=2.Nórsko, competitor=Fredrikstad<-
+sport=Futbal, league=2.USA, competitor=Miami<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Espanyol B<-
+sport=Futbal, league=1.Vietnam, competitor=Sanna Khanh Hoa<-
+sport=Futbal, league=3.Fínsko B, competitor=EsPa Espoo<-
+sport=Futbal, league=2.Turecko, competitor=Denizli<-
+sport=Futbal, league=1.Čína, competitor=Hangzhou Greentown<-
+sport=Futbal, league=2.Mexiko, competitor=Celaya<-
+sport=Futbal, league=3.Anglicko, competitor=Chesterfield<-
+sport=Futbal, league=5.Anglicko, competitor=Nuneaton<-
+sport=Futbal, league=1.J.Afrika, competitor=Platinium S.<-
+sport=Futbal, league=1.Litva, competitor=Šiauliai<-
+sport=Futbal, league=3.Anglicko, competitor=Shef.Utd.<-
+sport=Futbal, league=3.Taliansko B, competitor=Forli<-
+sport=Futbal, league=2.Švédsko, competitor=Utsikten<-
+sport=Futbal, league=1.Holandsko, competitor=Arnhem<-
+sport=Futbal, league=1.Kolumbia, competitor=Jun.Barranq.<-
+sport=Futbal, league=3.Nemecko, competitor=For.Köln<-
+sport=Futbal, league=1.Švédsko, competitor=AIK Stockh.<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Qadisiyah<-
+sport=Futbal, league=1.Bielorusko, competitor=Slutsk<-
+sport=Futbal, league=1.USA, competitor=Portland<-
+sport=Futbal, league=1.Česko, competitor=Č.Budejovice<-
+sport=Futbal, league=2.Japonsko, competitor=Tokushima<-
+sport=Futbal, league=2.Španielsko, competitor=Almeria<-
+sport=Futbal, league=1.Taliansko, competitor=Napoli<-
+sport=Futbal, league=2.Portugalsko, competitor=Braga B<-
+sport=Futbal, league=1.Nemecko, competitor=Stuttgart<-
+sport=Futbal, league=3.Anglicko, competitor=Leyton<-
+sport=Futbal, league=2.Brazília, competitor=Bahia BA<-
+sport=Futbal, league=3.Nemecko, competitor=Paderborn<-
+sport=Futbal, league=2.Island, competitor=Selfoss<-
+sport=Futbal, league=1.Argentína, competitor=Sarmiento<-
+sport=Futbal, league=2.Turecko, competitor=Kayseri<-
+sport=Futbal, league=2.Írsko, competitor=Waterford<-
+sport=Futbal, league=2.Švédsko, competitor=Frej<-
+sport=Futbal, league=1.Argentína, competitor=Godoy<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Nest Sotra<-
+sport=Futbal, league=1.Švédsko, competitor=Norrköping<-
+sport=Futbal, league=2.Portugalsko, competitor=Covilha<-
+sport=Futbal, league=2.Španielsko, competitor=Alcorcon<-
+sport=Futbal, league=1.Arménsko, competitor=Banants Jerevan<-
+sport=Futbal, league=3.Taliansko A, competitor=Pro Patria<-
+sport=Futbal, league=1.Turecko, competitor=Rizespor<-
+sport=Futbal, league=2.Česko, competitor=Vyšehrad<-
+sport=Futbal, league=1.Cyprus, competitor=Omonia Nic.<-
+sport=Futbal, league=1.Chile, competitor=Colo Colo<-
+sport=Futbal, league=3.Francúzsko, competitor=Dunkerque<-
+sport=Futbal, league=1.Fínsko, competitor=Kotka<-
+sport=Futbal, league=2.Belgicko, competitor=Dessel<-
+sport=Futbal, league=2.Rusko, competitor=Tula<-
+sport=Futbal, league=2.Japonsko, competitor=Yamagata<-
+sport=Futbal, league=1.Rusko, competitor=Dinamo M.<-
+sport=Futbal, league=1.Venezuela, competitor=Metropolitanos<-
+sport=Futbal, league=1.Taliansko, competitor=Hellas Verona<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Fateh<-
+sport=Futbal, league=2.Francúzsko, competitor=Niort<-
+sport=Futbal, league=2.Poľsko, competitor=Swinoujscie<-
+sport=Futbal, league=2.Anglicko, competitor=Fulham<-
+sport=Futbal, league=1.Kolumbia, competitor=Atl.Nacional<-
+sport=Futbal, league=3.Anglicko, competitor=Oldham<-
+sport=Futbal, league=1.Egypt, competitor=Petrojet<-
+sport=Futbal, league=2.Portugalsko, competitor=Leixoes<-
+sport=Futbal, league=1.Belgicko, competitor=OH Leuven<-
+sport=Futbal, league=1.Nórsko, competitor=Odd BK<-
+sport=Futbal, league=1.Singapur, competitor=Geylang Int.<-
+sport=Futbal, league=1.Chile, competitor=U.La Calera<-
+sport=Futbal, league=2.Japonsko, competitor=Fukuoka<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Melilla<-
+sport=Futbal, league=1.Paraguay, competitor=Luqueno<-
+sport=Futbal, league=2.USA, competitor=Ottawa Fury<-
+sport=Futbal, league=4.Anglicko, competitor=Hartlepool<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Olimpic de Xativa<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Coleraine<-
+sport=Futbal, league=2.Argentína, competitor=Juventud Unida<-
+sport=Futbal, league=2.Portugalsko, competitor=Chaves<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Betis B<-
+sport=Futbal, league=1.Švajčiarsko, competitor=Aarau<-
+sport=Futbal, league=2.Japonsko, competitor=Ehime<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Krupa<-
+sport=Futbal, league=1.Japonsko, competitor=Kashima<-
+sport=Futbal, league=Fortuna liga, competitor=Skalica<-
+sport=Futbal, league=1.J.Kórea, competitor=Seongnam<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Huelva<-
+sport=Futbal, league=1.Maďarsko, competitor=Gyirmót<-
+sport=Futbal, league=2.Francúzsko, competitor=Sochaux<-
+sport=Futbal, league=1.Japonsko, competitor=Urawa<-
+sport=Futbal, league=2.Taliansko, competitor=Entella<-
+sport=Futbal, league=1.Uruguay, competitor=Rentistas<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Lund<-
+sport=Futbal, league=3.Francúzsko, competitor=Frejus<-
+sport=Futbal, league=1.Chorvátsko, competitor=Lok.Zagreb<-
+sport=Futbal, league=1.Portugalsko, competitor=Belenenses<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Cadiz<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Mo<-
+sport=Futbal, league=3.Fínsko B, competitor=Kontu<-
+sport=Futbal, league=1.Poľsko, competitor=Wroclaw<-
+sport=Futbal, league=1.Venezuela, competitor=Zamora<-
+sport=Futbal, league=1.Rusko, competitor=Samara<-
+sport=Futbal, league=3.Taliansko B, competitor=Savona<-
+sport=Futbal, league=1.Island, competitor=IA Akranes<-
+sport=Futbal, league=2.Portugalsko, competitor=Penafiel<-
+sport=Futbal, league=1.Čína, competitor=Yanbian<-
+sport=Futbal, league=1.Austrália, competitor=FC Sydney<-
+sport=Futbal, league=3.Francúzsko, competitor=Orléans<-
+sport=Futbal, league=1.Chile, competitor=San Luis Quillota<-
+sport=Futbal, league=3.Nemecko, competitor=Dresden<-
+sport=Futbal, league=1.Japonsko, competitor=Shonan<-
+sport=Futbal, league=3.Taliansko C, competitor=Vigor Lamezia<-
+sport=Futbal, league=3.Taliansko B, competitor=Rimini<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Linares<-
+sport=Futbal, league=1.Kolumbia, competitor=Bucaramanga<-
+sport=Futbal, league=1.SAE, competitor=Al Shabab<-
+sport=Futbal, league=1.Holandsko, competitor=Deventer<-
+sport=Futbal, league=1.Cyprus, competitor=Er.Aradippou<-
+sport=Futbal, league=4.Anglicko, competitor=Shrewsbury<-
+sport=Futbal, league=2.USA, competitor=Edmonton<-
+sport=Futbal, league=3.Česko, competitor=Chrudim<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Hajer<-
+sport=Futbal, league=1.Bahrajn, competitor=Busaiteen<-
+sport=Futbal, league=2.Nórsko, competitor=KFUM Oslo<-
+sport=Futbal, league=1.Rumunsko, competitor=Pandurii<-
+sport=Futbal, league=2.Anglicko, competitor=Brighton<-
+sport=Futbal, league=1.Rakúsko, competitor=Mattersburg<-
+sport=Futbal, league=1.Brazília, competitor=Figueirense<-
+sport=Futbal, league=1.Brazília, competitor=Cruzeiro MG<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Travnik<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Skalica<-
+sport=Futbal, league=1.J.Kórea, competitor=Pohang<-
+sport=Futbal, league=1.Japonsko, competitor=FC Tokio<-
+sport=Futbal, league=2.Taliansko, competitor=Cesena<-
+sport=Futbal, league=1.Bolívia, competitor=CA Ciclón<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Flekkeroy<-
+sport=Futbal, league=2.Taliansko, competitor=Catania<-
+sport=Futbal, league=2.Anglicko, competitor=Millwall<-
+sport=Futbal, league=1.Bahrajn, competitor=Sitra<-
+sport=Futbal, league=2.Brazília, competitor=Ceará<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Wehda<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Orn Horten<-
+sport=Futbal, league=1.Japonsko, competitor=Yokohama<-
+sport=Futbal, league=1.Taliansko, competitor=Juventus<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Raufoss<-
+sport=Futbal, league=2.Nórsko, competitor=Jerv<-
+sport=Futbal, league=1.SAE, competitor=Al Sharjah<-
+sport=Futbal, league=1.Uruguay, competitor=Villa Teresa<-
+sport=Futbal, league=1.Írsko, competitor=Dundalk<-
+sport=Futbal, league=1.Belgicko, competitor=Eupen<-
+sport=Futbal, league=1.Izrael, competitor=H.Acre<-
+sport=Futbal, league=3.Taliansko A, competitor=Mantova<-
+sport=Futbal, league=1.Bulharsko, competitor=Levski Sofia<-
+sport=Futbal, league=2.Rusko, competitor=Chabarovsk<-
+sport=Futbal, league=1.Brazília, competitor=Sao Paulo SP<-
+sport=Futbal, league=1.Francúzsko, competitor=Caen<-
+sport=Futbal, league=1.Chile, competitor=Cobresal<-
+sport=Futbal, league=2.Portugalsko, competitor=Famalicao<-
+sport=Futbal, league=1.USA, competitor=Dallas<-
+sport=Futbal, league=3.Nemecko, competitor=Son.Grossaspach<-
+sport=Futbal, league=1.Čína, competitor=Hangzhou Greent<-
+sport=Futbal, league=1.Peru, competitor=Vallejo<-
+sport=Futbal, league=1.Vietnam, competitor=Quang Nam<-
+sport=Futbal, league=2.Brazília, competitor=Criciúma SC<-
+sport=Futbal, league=2.Rusko, competitor=Zenit St.Petěrburg B<-
+sport=Futbal, league=1.Rumunsko, competitor=Medias<-
+sport=Futbal, league=1.Peru, competitor=Cienciano<-
+sport=Futbal, league=1.Švajčiarsko, competitor=YB Bern<-
+sport=Futbal, league=2.Portugalsko, competitor=Varzim<-
+sport=Futbal, league=4.Anglicko, competitor=Newport<-
+sport=Futbal, league=3.Škótsko, competitor=Gr.Morton<-
+sport=Futbal, league=1.Bahrajn, competitor=Manama<-
+sport=Futbal, league=1.Poľsko, competitor=Nieciecza<-
+sport=Futbal, league=1.Egypt, competitor=Al Ittihad<-
+sport=Futbal, league=2.Chile, competitor=Everton CD<-
+sport=Futbal, league=1.Kazachstan, competitor=Irtysh Pavlodar<-
+sport=Futbal, league=1.Litva, competitor=Kruoja<-
+sport=Futbal, league=2.Brazília, competitor=Vitoria<-
+sport=Futbal, league=3.Taliansko C, competitor=Reggina<-
+sport=Futbal, league=1.Ukrajina, competitor=M.Doneck<-
+sport=Futbal, league=1.Dánsko, competitor=Odense<-
+sport=Futbal, league=2.Holandsko, competitor=Jong Enschede<-
+sport=Futbal, league=1.Bahrajn, competitor=Al Riffa<-
+sport=Futbal, league=3.Fínsko A, competitor=Käpylän Pallo<-
+sport=Futbal, league=4.Škótsko, competitor=East Fife<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Kongsvinger<-
+sport=Futbal, league=1.Ekvádor, competitor=LDU de Loja<-
+sport=Futbal, league=1.Nórsko, competitor=Haugesund<-
+sport=Futbal, league=3.Taliansko B, competitor=Aquila<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Žilina B<-
+sport=Futbal, league=1.Belgicko, competitor=Oostende<-
+sport=Futbal, league=2.Portugalsko, competitor=Benfica B<-
+sport=Futbal, league=1.Rakúsko, competitor=Wr.Neustadt<-
+sport=Futbal, league=1.Nemecko, competitor=Dortmund<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Vitez NK<-
+sport=Futbal, league=4.Anglicko, competitor=Wimbledon<-
+sport=Futbal, league=1.Bolívia, competitor=Bolivar<-
+sport=Futbal, league=1.Turecko, competitor=Galatasaray<-
+sport=Futbal, league=1.Turecko, competitor=Büyüksehir<-
+sport=Futbal, league=5.Anglicko, competitor=Alfreton<-
+sport=Futbal, league=1.Ukrajina, competitor=Užhorod<-
+sport=Futbal, league=2.Slovensko-východ, competitor=R.Sobota<-
+sport=Futbal, league=1.Honduras, competitor=Honduras CD<-
+sport=Futbal, league=1.Kostarika, competitor=Limón<-
+sport=Futbal, league=2.Nemecko, competitor=Heidenheim<-
+sport=Futbal, league=2.Belgicko, competitor=FC Antwerp<-
+sport=Futbal, league=1.Vietnam, competitor=FC Hanoi<-
+sport=Futbal, league=2.Nórsko, competitor=Follo<-
+sport=Futbal, league=1.Bielorusko, competitor=Krumkachy<-
+sport=Futbal, league=2.Belgicko, competitor=Heist<-
+sport=Futbal, league=3.Francúzsko, competitor=Strasbourg<-
+sport=Futbal, league=1.Salvádor, competitor=Dragon<-
+sport=Futbal, league=2.Taliansko, competitor=Bari<-
+sport=Futbal, league=2.Nemecko, competitor=Leipzig<-
+sport=Futbal, league=3.Taliansko C, competitor=Matera<-
+sport=Futbal, league=3.Škótsko, competitor=Stenhousemuir<-
+sport=Futbal, league=1.Bulharsko, competitor=Blagoevgrad<-
+sport=Futbal, league=1.Srbsko, competitor=Kruševac<-
+sport=Futbal, league=1.Kostarika, competitor=Herediano<-
+sport=Futbal, league=3.Taliansko B, competitor=Reggiana<-
+sport=Futbal, league=1.Španielsko, competitor=Bilbao<-
+sport=Futbal, league=1.USA, competitor=New York<-
+sport=Futbal, league=1.Austrália, competitor=V.Melbourne<-
+sport=Futbal, league=2.Česko, competitor=Vlašim<-
+sport=Futbal, league=1.Rusko, competitor=Lokomotiv M.<-
+sport=Futbal, league=2.Dánsko, competitor=AGF Aarhus<-
+sport=Futbal, league=1.Azerbajdžan, competitor=Sumgayet<-
+sport=Futbal, league=1.Belgicko, competitor=Mouscron Pér.<-
+sport=Futbal, league=1.Anglicko, competitor=Bournemouth<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Essen SGS<-
+sport=Futbal, league=1.Egypt, competitor=Ismaily<-
+sport=Futbal, league=1.Arménsko, competitor=Pjunik<-
+sport=Futbal, league=1.Poľsko, competitor=Z.Bydgoszcz<-
+sport=Futbal, league=3.Taliansko C, competitor=Paganese<-
+sport=Futbal, league=2.Slovensko-východ, competitor=Zvolen<-
+sport=Futbal, league=3.Taliansko B, competitor=Prato<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Toledo<-
+sport=Futbal, league=1.Ekvádor, competitor=Fuerza Amarilla<-
+sport=Futbal, league=2.Taliansko, competitor=Ascoli<-
+sport=Futbal, league=3.Taliansko C, competitor=Barletta<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Chiasso<-
+sport=Futbal, league=2.Brazília, competitor=Londrina PR<-
+sport=Futbal, league=2.Česko, competitor=Zlín<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Valencia B<-
+sport=Futbal, league=3.Taliansko C, competitor=Lupa Roma<-
+sport=Futbal, league=1.Anglicko, competitor=Watford<-
+sport=Futbal, league=2.Slovensko-východ, competitor=D.Kubín<-
+sport=Futbal, league=2.Rusko, competitor=Chimki<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Lleida<-
+sport=Futbal, league=1.Švédsko, competitor=Elfsborg<-
+sport=Futbal, league=3.Anglicko, competitor=Crewe<-
+sport=Futbal, league=2.Nemecko, competitor=Sandhausen<-
+sport=Futbal, league=1.Francúzsko, competitor=Montpellier<-
+sport=Futbal, league=1.Holandsko, competitor=Feyenoord<-
+sport=Futbal, league=Fortuna liga, competitor=Ružomberok<-
+sport=Futbal, league=2.Nemecko, competitor=Aalen<-
+sport=Futbal, league=1.Brazília, competitor=Ponte Preta<-
+sport=Futbal, league=1.Kolumbia, competitor=Pasto<-
+sport=Futbal, league=3.Česko, competitor=Zápy<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Gernika<-
+sport=Futbal, league=1.Vietnam, competitor=Long An<-
+sport=Futbal, league=1.Čína, competitor=Shanghai East Asia<-
+sport=Futbal, league=2.Turecko, competitor=Alanya<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Reus<-
+sport=Futbal, league=3.Francúzsko, competitor=Amiens<-
+sport=Futbal, league=1.Francúzsko, competitor=Monaco<-
+sport=Futbal, league=1.Rakúsko, competitor=Austria<-
+sport=Futbal, league=1.Kostarika, competitor=Belén Siglo<-
+sport=Futbal, league=2.Rusko, competitor=Machačkala<-
+sport=Futbal, league=5.Anglicko, competitor=Telford<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Trelleborg<-
+sport=Futbal, league=1.Rusko, competitor=Tula<-
+sport=Futbal, league=1.Kanada, competitor=Atomic T.<-
+sport=Futbal, league=1.Švajčiarsko, competitor=Sion<-
+sport=Futbal, league=1.Rakúsko, competitor=Salzburg<-
+sport=Futbal, league=2.Rusko, competitor=Tosno<-
+sport=Futbal, league=1.J.Afrika, competitor=Bloemfontein C.<-
+sport=Futbal, league=2.Rusko, competitor=Saransk<-
+sport=Futbal, league=1.Čína, competitor=Beijing Guoan<-
+sport=Futbal, league=1.Grécko, competitor=Panetolikos<-
+sport=Futbal, league=1.Katar, competitor=Al Khor<-
+sport=Futbal, league=1.Rumunsko, competitor=Botosani<-
+sport=Futbal, league=2.Fínsko, competitor=TPS Turku<-
+sport=Futbal, league=2.Česko, competitor=Olomouc B<-
+sport=Futbal, league=1.Taliansko, competitor=Empoli<-
+sport=Futbal, league=1.Rusko, competitor=Tomsk<-
+sport=Futbal, league=1.Island, competitor=Vikingur Reyk.<-
+sport=Futbal, league=3.Česko, competitor=Táborsko B<-
+sport=Futbal, league=2.Rusko, competitor=Din.Moskva<-
+sport=Futbal, league=1.Nórsko, competitor=Strömsgodset<-
+sport=Futbal, league=1.Portugalsko, competitor=Rio Ave<-
+sport=Futbal, league=1.Vietnam, competitor=Binh Duong<-
+sport=Futbal, league=1.Kazachstan, competitor=Ordabasy<-
+sport=Futbal, league=1.Bielorusko, competitor=Torp.Žodino<-
+sport=Futbal, league=1.India, competitor=Mumbai<-
+sport=Futbal, league=1.Srbsko, competitor=Jagodina<-
+sport=Futbal, league=2.Japonsko, competitor=Yamaga<-
+sport=Futbal, league=3.Taliansko C, competitor=Akragas<-
+sport=Futbal, league=2.Holandsko, competitor=Almere City<-
+sport=Futbal, league=1.Azerbajdžan, competitor=Azal Baku<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Warrenpoint<-
+sport=Futbal, league=1.Rumunsko, competitor=Petrol.Ploiesti<-
+sport=Futbal, league=4.Anglicko, competitor=Carlisle<-
+sport=Futbal, league=1.Anglicko, competitor=Norwich<-
+sport=Futbal, league=1.Španielsko, competitor=Real Madrid<-
+sport=Futbal, league=1.Švajčiarsko, competitor=FC Zürich<-
+sport=Futbal, league=1.Singapur, competitor=Brunei DPMM<-
+sport=Futbal, league=3.Fínsko-západ, competitor=KaaPo Kaarina<-
+sport=Futbal, league=1.Panama, competitor=Alianza<-
+sport=Futbal, league=1.Paraguay, competitor=Dep.Capiatá<-
+sport=Futbal, league=1.Venezuela, competitor=Anzoátegui<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Vráble<-
+sport=Futbal, league=1.Bulharsko, competitor=Dunav Ruse<-
+sport=Futbal, league=1.Bulharsko, competitor=Montana<-
+sport=Futbal, league=1.Kazachstan, competitor=Kairat Almaty<-
+sport=Futbal, league=1.Chile, competitor=U.Espaňola<-
+sport=Futbal, league=1.Slovinsko, competitor=Radomlje<-
+sport=Futbal, league=1.Švédsko, competitor=IFK Göteb.<-
+sport=Futbal, league=2.Turecko, competitor=1461 Trabzon<-
+sport=Futbal, league=3.Nemecko, competitor=Bielefeld<-
+sport=Futbal, league=2.Portugalsko, competitor=Maritimo B<-
+sport=Futbal, league=1.Litva, competitor=Žalg.Kaunas<-
+sport=Futbal, league=1.Anglicko, competitor=Tottenham<-
+sport=Futbal, league=2.Nórsko, competitor=Baerum<-
+sport=Futbal, league=1.Slovinsko, competitor=Krsko<-
+sport=Futbal, league=1.Argentína, competitor=Argentinos<-
+sport=Futbal, league=1.Izrael, competitor=H.Beer Sheva<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Pena Sport<-
+sport=Futbal, league=1.Argentína, competitor=Tigre<-
+sport=Futbal, league=3.Anglicko, competitor=Barnsley<-
+sport=Futbal, league=2.Anglicko, competitor=Hull<-
+sport=Futbal, league=1.Španielsko, competitor=Espanyol<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Lednické Rovne<-
+sport=Futbal, league=3.Nemecko, competitor=Hallescher<-
+sport=Futbal, league=1.Holandsko, competitor=Groningen<-
+sport=Futbal, league=1.Maďarsko, competitor=Ferencváros<-
+sport=Futbal, league=1.Francúzsko, competitor=Bastia SC<-
+sport=Futbal, league=1.Česko, competitor=Ostrava<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Carlstad Utd.<-
+sport=Futbal, league=5.Anglicko, competitor=Lincoln<-
+sport=Futbal, league=1.Cyprus, competitor=Agia Napa<-
+sport=Futbal, league=2.Turecko, competitor=Antalya<-
+sport=Futbal, league=1.Turecko, competitor=Karabuk<-
+sport=Futbal, league=1.Argentína, competitor=Rosario<-
+sport=Futbal, league=1.Škótsko, competitor=Ross<-
+sport=Futbal, league=1.Švédsko, competitor=Malmö FF<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Vindbjart<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=FC Sevilla B<-
+sport=Futbal, league=2.Taliansko, competitor=Novara<-
+sport=Futbal, league=1.J.Afrika, competitor=B.Leopards<-
+sport=Futbal, league=1.Čína, competitor=Shijiazhuang Ever Bright<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Dalkurd<-
+sport=Futbal, league=1.Guatemala, competitor=Comunicaciones<-
+sport=Futbal, league=1.Uruguay, competitor=Sud América<-
+sport=Futbal, league=2.Španielsko, competitor=Llagostera<-
+sport=Futbal, league=1.Peru, competitor=Inti Gas<-
+sport=Futbal, league=1.Wales, competitor=TNS Llans.<-
+sport=Futbal, league=2.Turecko, competitor=Karsiyaka<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Llosetense<-
+sport=Futbal, league=1.Venezuela, competitor=Llaneros<-
+sport=Futbal, league=1.Panama, competitor=Atl.Chiriquí<-
+sport=Futbal, league=3.Francúzsko, competitor=Istres<-
+sport=Futbal, league=2.Chile, competitor=San Felipe<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Alta<-
+sport=Futbal, league=1.Mexiko, competitor=Tijuana<-
+sport=Futbal, league=1.Škótsko, competitor=Hearts<-
+sport=Futbal, league=1.Francúzsko, competitor=Toulouse<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Borčice<-
+sport=Futbal, league=1.Bielorusko, competitor=Mozyr<-
+sport=Futbal, league=1.Bahrajn, competitor=Al Hadd<-
+sport=Futbal, league=3.Fínsko-juh, competitor=Järvenpää<-
+sport=Futbal, league=1.Argentína, competitor=Sarandí<-
+sport=Futbal, league=1.Wales, competitor=Port Talbot<-
+sport=Futbal, league=2.Česko, competitor=Kolín<-
+sport=Futbal, league=2.Rusko, competitor=Jaroslavl<-
+sport=Futbal, league=1.Čína, competitor=Hebei CFFC<-
+sport=Futbal, league=1.Škótsko, competitor=Kilmarnock<-
+sport=Futbal, league=1.Argentína, competitor=Newell s<-
+sport=Futbal, league=2.Švédsko, competitor=Dalkurd<-
+sport=Futbal, league=2.Slovensko-východ, competitor=L.Mikuláš<-
+sport=Futbal, league=3.Nemecko, competitor=Duisburg<-
+sport=Futbal, league=2.Japonsko, competitor=Kusatsu<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Sestao<-
+sport=Futbal, league=1.Česko, competitor=Plzeň<-
+sport=Futbal, league=1.Venezuela, competitor=Dep.Lara<-
+sport=Futbal, league=1.Kazachstan, competitor=Tobol Kostanay<-
+sport=Futbal, league=3.Škótsko, competitor=Stranraer<-
+sport=Futbal, league=3.Fínsko C, competitor=Santa Claus<-
+sport=Futbal, league=3.Taliansko C, competitor=Aversa Normanna<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Senec<-
+sport=Futbal, league=2.Rusko, competitor=Irkutsk<-
+sport=Futbal, league=1.Belgicko, competitor=Cercle<-
+sport=Futbal, league=1.Mexiko, competitor=Leones Negros<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Winterthur<-
+sport=Futbal, league=2.Izrael, competitor=Ironi Kiryat Gat<-
+sport=Futbal, league=1.Lotyšsko, competitor=BFC Daugavpils<-
+sport=Futbal, league=1.Brazília, competitor=Joinville<-
+sport=Futbal, league=1.USA, competitor=Toronto<-
+sport=Futbal, league=1.Poľsko, competitor=Poznaň<-
+sport=Futbal, league=1.Ekvádor, competitor=Aucas<-
+sport=Futbal, league=1.Holandsko, competitor=Breda<-
+sport=Futbal, league=1.Salvádor, competitor=Atl.Marte<-
+sport=Futbal, league=1.Kostarika, competitor=Cartaginés<-
+sport=Futbal, league=2.Izrael, competitor=Mac.Herzlia<-
+sport=Futbal, league=1.Kostarika, competitor=San Carlos<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Pobla Mafumet<-
+sport=Futbal, league=2.Švédsko, competitor=AFC United<-
+sport=Futbal, league=1.Ekvádor, competitor=U.Catolica<-
+sport=Futbal, league=1.Azerbajdžan, competitor=Karabach<-
+sport=Futbal, league=2.Nemecko, competitor=Braunschweig<-
+sport=Futbal, league=2.Slovensko-východ, competitor=Bardejov<-
+sport=Futbal, league=1.Fínsko, competitor=PK 35 Vantaa<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Utsikten<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Biel<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Lörenskog<-
+sport=Futbal, league=1.Portugalsko, competitor=U.Madeira<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=L Hospitalet<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Gjovik Lyn<-
+sport=Futbal, league=2.Rusko, competitor=St.Petěrburg B<-
+sport=Futbal, league=2.Brazília, competitor=Boa EC<-
+sport=Futbal, league=2.Španielsko, competitor=Gijon<-
+sport=Futbal, league=1.Litva, competitor=Spyris Kaunas<-
+sport=Futbal, league=3.Fínsko-juh, competitor=Honka Espoo<-
+sport=Futbal, league=1.Ekvádor, competitor=CD Cuenca<-
+sport=Futbal, league=1.Anglicko, competitor=Liverpool<-
+sport=Futbal, league=2.Brazília, competitor=Atl.Goianiense<-
+sport=Futbal, league=1.USA, competitor=Colorado<-
+sport=Futbal, league=1.Španielsko, competitor=Las Palmas<-
+sport=Futbal, league=3.Taliansko A, competitor=Reggiana<-
+sport=Futbal, league=1.Dánsko, competitor=Sönderjyske<-
+sport=Futbal, league=2.Rakúsko, competitor=Kapfenberg<-
+sport=Futbal, league=1.Ukrajina, competitor=Dneprodzeržinsk<-
+sport=Futbal, league=1.Česko, competitor=Teplice<-
+sport=Futbal, league=1.Portugalsko, competitor=Sporting<-
+sport=Futbal, league=1.Brazília, competitor=Am.Mineiro MG<-
+sport=Futbal, league=1.Švédsko, competitor=Falkenberg<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Sloboda<-
+sport=Futbal, league=3.Fínsko C, competitor=PPT Pori<-
+sport=Futbal, league=2.Dánsko, competitor=Skive<-
+sport=Futbal, league=1.Nemecko, competitor=Darmstadt 98<-
+sport=Futbal, league=4.Anglicko, competitor=Exeter<-
+sport=Futbal, league=2.Nemecko, competitor=Bochum<-
+sport=Futbal, league=2.Rusko, competitor=Jen.Krasnojarsk<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Lealtad<-
+sport=Futbal, league=2.Portugalsko, competitor=Tondela<-
+sport=Futbal, league=2.Anglicko, competitor=Cardiff<-
+sport=Futbal, league=2.Španielsko, competitor=Valladolid<-
+sport=Futbal, league=2.Rusko, competitor=Spartak M. B<-
+sport=Futbal, league=1.Austrália, competitor=H.Melbourne<-
+sport=Futbal, league=2.Fínsko, competitor=AC Oulu<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Coruxo<-
+sport=Futbal, league=2.Česko, competitor=Frýdek Místek<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Servette<-
+sport=Futbal, league=2.Mexiko, competitor=Tampico Madero<-
+sport=Futbal, league=2.Argentína, competitor=Villa Dalmine<-
+sport=Futbal, league=1.Belgicko, competitor=Westerlo<-
+sport=Futbal, league=3.Škótsko, competitor=Forfar<-
+sport=Futbal, league=3.Škótsko, competitor=Brechin<-
+sport=Futbal, league=1.Švédsko, competitor=Häcken<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Shabab Riyadh<-
+sport=Futbal, league=1.Austrália, competitor=Perth<-
+sport=Futbal, league=2.Holandsko, competitor=De Graafschap<-
+sport=Futbal, league=1.Rusko, competitor=Zenit St.Petersb.<-
+sport=Futbal, league=1.Anglicko, competitor=Newcastle<-
+sport=Futbal, league=1.Francúzsko, competitor=Metz<-
+sport=Futbal, league=1.Wales, competitor=Prestatyn<-
+sport=Futbal, league=1.USA, competitor=Montreal<-
+sport=Futbal, league=1.Francúzsko, competitor=Lyon<-
+sport=Futbal, league=3.Francúzsko, competitor=Poire Sur Vie<-
+sport=Futbal, league=1.Cyprus, competitor=Paralimni<-
+sport=Futbal, league=1.Brazília, competitor=Internacional RS<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Landskrona<-
+sport=Futbal, league=1.J.Afrika, competitor=Ajax CT<-
+sport=Futbal, league=1.Wales, competitor=Newtown<-
+sport=Futbal, league=2.Poľsko, competitor=Pruszkow<-
+sport=Futbal, league=2.Švédsko, competitor=GAIS Göteb.<-
+sport=Futbal, league=1.Rumunsko, competitor=Voluntari<-
+sport=Futbal, league=2.Anglicko, competitor=Reading<-
+sport=Futbal, league=1.Kazachstan, competitor=Aktobe<-
+sport=Futbal, league=1.Brazília, competitor=Bahia Salv.<-
+sport=Futbal, league=1.Kazachstan, competitor=Shakhter Karagandy<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Atl.Astorga<-
+sport=Futbal, league=2.Portugalsko, competitor=Oliveirense<-
+sport=Futbal, league=1.Bolívia, competitor=Real Potosi<-
+sport=Futbal, league=1.Španielsko, competitor=Getafe<-
+sport=Futbal, league=1.Rumunsko, competitor=Poli Timisoara<-
+sport=Futbal, league=1.Anglicko, competitor=Chelsea<-
+sport=Futbal, league=1.Bolívia, competitor=Club Petrolero<-
+sport=Futbal, league=Fortuna liga, competitor=B.Bystrica<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Valladolid B<-
+sport=Futbal, league=1.Rumunsko, competitor=Rap.Bukurešť<-
+sport=Futbal, league=5.Anglicko, competitor=Dartford<-
+sport=Futbal, league=1.Brazília, competitor=Santa Cruz PE<-
+sport=Futbal, league=2.Argentína, competitor=Gim.Jujuy<-
+sport=Futbal, league=1.Slovinsko, competitor=Maribor<-
+sport=Futbal, league=1.Argentína, competitor=Banfield<-
+sport=Futbal, league=1.Uruguay, competitor=Montevideo W.<-
+sport=Futbal, league=1.USA, competitor=San Jose<-
+sport=Futbal, league=2.Taliansko, competitor=Como<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Burgos<-
+sport=Futbal, league=2.Turecko, competitor=Manisa<-
+sport=Futbal, league=3.Taliansko A, competitor=Alessandria<-
+sport=Futbal, league=1.Grécko, competitor=Atromitos<-
+sport=Futbal, league=1.Holandsko, competitor=De Graafschap<-
+sport=Futbal, league=1.Egypt, competitor=El Geish<-
+sport=Futbal, league=1.Poľsko, competitor=Leczna<-
+sport=Futbal, league=1.J.Afrika, competitor=Mbombela<-
+sport=Futbal, league=2.Japonsko, competitor=Nagasaki<-
+sport=Futbal, league=2.Česko, competitor=Hr.Králové<-
+sport=Futbal, league=2.Chile, competitor=Temuco<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Bromma<-
+sport=Futbal, league=1.Malta, competitor=Hibernians<-
+sport=Futbal, league=1.Škótsko, competitor=Dundee Utd.<-
+sport=Futbal, league=1.Čína, competitor=Henan<-
+sport=Futbal, league=1.USA, competitor=Houston<-
+sport=Futbal, league=1.Čína, competitor=Sh.Luneng<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Ham Kam<-
+sport=Futbal, league=1.Česko, competitor=Jihlava<-
+sport=Futbal, league=1.Japonsko, competitor=Shimizu<-
+sport=Futbal, league=3.Francúzsko, competitor=Bourg<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Getafe B<-
+sport=Futbal, league=1.Ukrajina, competitor=Oleksandrija<-
+sport=Futbal, league=1.Estónsko, competitor=Parnu<-
+sport=Futbal, league=1.Argentína, competitor=Crucero<-
+sport=Futbal, league=1.Grécko, competitor=Giannina<-
+sport=Futbal, league=3.Anglicko, competitor=Walsall<-
+sport=Futbal, league=1.Japonsko, competitor=Yamaga<-
+sport=Futbal, league=1.Ekvádor, competitor=Manta<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Atl.Baleares<-
+sport=Futbal, league=1.Taliansko, competitor=AS Roma<-
+sport=Futbal, league=1.Bielorusko, competitor=Gomel<-
+sport=Futbal, league=3.Česko, competitor=Převýšov<-
+sport=Futbal, league=1.Kostarika, competitor=Pumas General.<-
+sport=Futbal, league=1.Bielorusko, competitor=BATE Borisov<-
+sport=Futbal, league=1.J.Afrika, competitor=G.Arrows<-
+sport=Futbal, league=1.Chorvátsko, competitor=Hajduk<-
+sport=Futbal, league=1.Česko, competitor=Zlín<-
+sport=Futbal, league=1.Island, competitor=Keflavík<-
+sport=Futbal, league=1.Dánsko, competitor=AGF Aarhus<-
+sport=Futbal, league=1.Česko, competitor=Karviná<-
+sport=Futbal, league=5.Anglicko, competitor=Bris.Rov.<-
+sport=Futbal, league=1.Španielsko, competitor=Cordoba<-
+sport=Futbal, league=2.Španielsko, competitor=Las Palmas<-
+sport=Futbal, league=1.Estónsko, competitor=Narva<-
+sport=Futbal, league=1.USA, competitor=Chicago<-
+sport=Futbal, league=3.Anglicko, competitor=Burton<-
+sport=Futbal, league=2.Argentína, competitor=Cent.Cordoba<-
+sport=Futbal, league=1.Nemecko, competitor=Augsburg<-
+sport=Futbal, league=2.Švédsko, competitor=Örgryte<-
+sport=Futbal, league=3.Fínsko-sever, competitor=TP 47<-
+sport=Futbal, league=1.Kolumbia, competitor=Fortaleza<-
+sport=Futbal, league=1.Estónsko, competitor=Flora Paide<-
+sport=Futbal, league=1.Maďarsko, competitor=Puskas Akademia<-
+sport=Futbal, league=2.Írsko, competitor=Athlone<-
+sport=Futbal, league=2.Poľsko, competitor=Gdynia<-
+sport=Futbal, league=1.Katar, competitor=Al Wakra<-
+sport=Futbal, league=1.Srbsko, competitor=CZ Beograd<-
+sport=Futbal, league=2.Španielsko, competitor=Tenerife<-
+sport=Futbal, league=1.Mexiko, competitor=Dorados de Sinaloa<-
+sport=Futbal, league=1.Panama, competitor=S.Francisco<-
+sport=Futbal, league=1.Cyprus, competitor=Eth.Achna<-
+sport=Futbal, league=2.Anglicko, competitor=Milton K.<-
+sport=Futbal, league=1.Rusko, competitor=CSKA M.<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Nardo<-
+sport=Futbal, league=1.Rumunsko, competitor=Otelul Galati<-
+sport=Futbal, league=2.Belgicko, competitor=Seraing Utd.<-
+sport=Futbal, league=1.Švédsko, competitor=Östersund<-
+sport=Futbal, league=2.Írsko, competitor=Cobh<-
+sport=Futbal, league=1.Anglicko, competitor=Hull<-
+sport=Futbal, league=1.Uruguay, competitor=Tacuarembó<-
+sport=Futbal, league=2.Island, competitor=Fjardabyggd<-
+sport=Futbal, league=3.Fínsko A, competitor=Futura<-
+sport=Futbal, league=3.Anglicko, competitor=Blackpool<-
+sport=Futbal, league=1.Rakúsko, competitor=St.Pölten<-
+sport=Futbal, league=3.Anglicko, competitor=Doncaster<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Alta<-
+sport=Futbal, league=2.Slovensko-východ, competitor=VSS Košice<-
+sport=Futbal, league=1.Arménsko, competitor=Ararat Jerevan<-
+sport=Futbal, league=2.Poľsko, competitor=Olsztyn<-
+sport=Futbal, league=1.Španielsko, competitor=Barcelona<-
+sport=Futbal, league=1.Fínsko, competitor=Jaro<-
+sport=Futbal, league=2.Chile, competitor=Iberia<-
+sport=Futbal, league=2.Taliansko, competitor=Pescara<-
+sport=Futbal, league=1.J.Kórea, competitor=Jeonnam Dragons<-
+sport=Futbal, league=1.Argentína, competitor=Temperley<-
+sport=Futbal, league=3.Nemecko, competitor=Zwickau<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Crusaders<-
+sport=Futbal, league=1.Panama, competitor=S.Miguelito<-
+sport=Futbal, league=1.Venezuela, competitor=Dep.Petare<-
+sport=Futbal, league=2.Česko, competitor=Pardubice<-
+sport=Futbal, league=1.Katar, competitor=Al Gharrafa<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Jaén<-
+sport=Futbal, league=1.J.Kórea, competitor=Suwon City<-
+sport=Futbal, league=3.Nemecko, competitor=Erfurt<-
+sport=Futbal, league=1.Dánsko, competitor=FC Kodaň<-
+sport=Futbal, league=1.Japonsko, competitor=Tosu<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Byasen<-
+sport=Futbal, league=1.Brazília, competitor=Paranaense<-
+sport=Futbal, league=1.Ekvádor, competitor=El Nacional<-
+sport=Futbal, league=1.Estónsko, competitor=Rakvere Flora<-
+sport=Futbal, league=1.Rusko, competitor=Saransk<-
+sport=Futbal, league=1.Francúzsko, competitor=Reims<-
+sport=Futbal, league=3.Taliansko C, competitor=Savoia<-
+sport=Futbal, league=1.Dánsko, competitor=Lyngby<-
+sport=Futbal, league=1.Paraguay, competitor=Guarani A.<-
+sport=Futbal, league=3.Fínsko-juh, competitor=Atlantis<-
+sport=Futbal, league=1.Venezuela, competitor=Trujillanos<-
+sport=Futbal, league=2.USA, competitor=RH Carolina<-
+sport=Futbal, league=1.Írsko, competitor=Shamrock<-
+sport=Futbal, league=2.Škótsko, competitor=St.Mirren<-
+sport=Futbal, league=2.Nórsko, competitor=Ullensaker<-
+sport=Futbal, league=1.Brazília, competitor=Palmeiras<-
+sport=Futbal, league=1.SAE, competitor=Al Nasr<-
+sport=Futbal, league=1.Bielorusko, competitor=Din.Brest<-
+sport=Futbal, league=1.Litva, competitor=Lietava Jonava<-
+sport=Futbal, league=2.USA, competitor=Indy Eleven<-
+sport=Futbal, league=1.Taliansko, competitor=AC Torino<-
+sport=Futbal, league=1.Island, competitor=Hafnarfj.<-
+sport=Futbal, league=2.Anglicko, competitor=Wolverhampton<-
+sport=Futbal, league=3.Taliansko A, competitor=Bassano Virtus<-
+sport=Futbal, league=1.Lotyšsko, competitor=FK Ventspils<-
+sport=Futbal, league=1.Egypt, competitor=Al Ahly Cairo<-
+sport=Futbal, league=2.Mexiko, competitor=Dorados de Sinaloa<-
+sport=Futbal, league=2.Nórsko, competitor=Kongsvinger<-
+sport=Futbal, league=1.Anglicko, competitor=Man.City<-
+sport=Futbal, league=1.Peru, competitor=U.Comercio<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Glentoran<-
+sport=Futbal, league=2.Nórsko, competitor=Asane<-
+sport=Futbal, league=1.Egypt, competitor=Aswan<-
+sport=Futbal, league=4.Anglicko, competitor=Cheltenham<-
+sport=Futbal, league=1.Belgicko, competitor=Genk<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Eldense<-
+sport=Futbal, league=1.Ukrajina, competitor=Kirovohrad<-
+sport=Futbal, league=1.Brazília, competitor=Cruzeiro<-
+sport=Futbal, league=1.Argentína, competitor=Estudiantes<-
+sport=Futbal, league=1.Vietnam, competitor=Thanh Hoa<-
+sport=Futbal, league=1.Litva, competitor=Utenis Utena<-
+sport=Futbal, league=2.Holandsko, competitor=Maastricht<-
+sport=Futbal, league=2.Island, competitor=Huginn<-
+sport=Futbal, league=4.Anglicko, competitor=Bris.Rov.<-
+sport=Futbal, league=1.Arménsko, competitor=Mika<-
+sport=Futbal, league=1.J.Afrika, competitor=Mpumalanga<-
+sport=Futbal, league=5.Anglicko, competitor=For.Green<-
+sport=Futbal, league=2.Dánsko, competitor=Bronshoj<-
+sport=Futbal, league=1.Peru, competitor=Ayacucho<-
+sport=Futbal, league=1.Wales, competitor=Rhyl<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Leioa<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Rudar Prijedor<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Dubnica<-
+sport=Futbal, league=3.Nemecko, competitor=Wehen<-
+sport=Futbal, league=1.Katar, competitor=Umm Salal<-
+sport=Futbal, league=1.Paraguay, competitor=Cerro Porteno<-
+sport=Futbal, league=3.Fínsko C, competitor=Hercules JS<-
+sport=Futbal, league=1.Brazília, competitor=Fluminense RJ<-
+sport=Futbal, league=1.Japonsko, competitor=Omiya<-
+sport=Futbal, league=3.Česko, competitor=Benátky<-
+sport=Futbal, league=3.Česko, competitor=Dobrovice<-
+sport=Futbal, league=1.Wales, competitor=Airbus<-
+sport=Futbal, league=2.Švédsko, competitor=Östersund<-
+sport=Futbal, league=5.Anglicko, competitor=Eastleigh<-
+sport=Futbal, league=1.Nemecko, competitor=Hoffenheim<-
+sport=Futbal, league=5.Anglicko, competitor=Guiseley<-
+sport=Futbal, league=3.Taliansko B, competitor=Carrarese<-
+sport=Futbal, league=1.Ekvádor, competitor=River Plate (ECU)<-
+sport=Futbal, league=2.Brazília, competitor=Tupi MG<-
+sport=Futbal, league=1.Grécko, competitor=Panathinaikos<-
+sport=Futbal, league=2.Fínsko, competitor=EIF<-
+sport=Futbal, league=2.Španielsko, competitor=Sabadell<-
+sport=Futbal, league=1.Česko, competitor=Sparta<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Hur.Valencia<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Asker<-
+sport=Futbal, league=2.Dánsko, competitor=Vestsjael.<-
+sport=Futbal, league=1.Lotyšsko, competitor=Gulbene<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Fram Larvik<-
+sport=Futbal, league=1.J.Afrika, competitor=Bidvest W.<-
+sport=Futbal, league=1.Česko, competitor=Olomouc<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Ittihad<-
+sport=Futbal, league=2.Island, competitor=Akureyri KA<-
+sport=Futbal, league=3.Fínsko C, competitor=VIFK<-
+sport=Futbal, league=1.Grécko, competitor=Panionios<-
+sport=Futbal, league=1.Kolumbia, competitor=Envigado<-
+sport=Futbal, league=1.Salvádor, competitor=Alianza<-
+sport=Futbal, league=1.Švédsko, competitor=Gefle<-
+sport=Futbal, league=1.Čína, competitor=Shanghai SIPG<-
+sport=Futbal, league=1.Brazília, competitor=Chapecoense SC<-
+sport=Futbal, league=1.Mexiko, competitor=Chiapa<-
+sport=Futbal, league=1.USA, competitor=Seattle<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Carrick Rang.<-
+sport=Futbal, league=2.Portugalsko, competitor=Gil Vicente<-
+sport=Futbal, league=1.Chorvátsko, competitor=Rijeka<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Jena USV<-
+sport=Futbal, league=4.Škótsko, competitor=Arbroath<-
+sport=Futbal, league=1.Rusko, competitor=FK Krasnodar<-
+sport=Futbal, league=1.Srbsko, competitor=G.Milanovac<-
+sport=Futbal, league=1.Dánsko, competitor=Midtjylland<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Team TG FF<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Raed<-
+sport=Futbal, league=1.Litva, competitor=Ekranas Pan.<-
+sport=Futbal, league=1.Švédsko, competitor=Atvidaberg<-
+sport=Futbal, league=3.Fínsko B, competitor=BK 46<-
+sport=Futbal, league=2.USA, competitor=San Antonio<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Svatý Jur<-
+sport=Futbal, league=2.Japonsko, competitor=Tochigi<-
+sport=Futbal, league=1.Španielsko, competitor=Malaga<-
+sport=Futbal, league=1.Izrael, competitor=Kir.Shmona<-
+sport=Futbal, league=2.Česko, competitor=Znojmo<-
+sport=Futbal, league=1.Kolumbia, competitor=Santa Fe<-
+sport=Futbal, league=1.Nórsko, competitor=B.Glimt<-
+sport=Futbal, league=2.USA, competitor=Minnesota Utd.<-
+sport=Futbal, league=1.Írsko, competitor=Galway U.<-
+sport=Futbal, league=2.Dánsko, competitor=Fremad Amager<-
+sport=Futbal, league=2.Írsko, competitor=Shelbourne<-
+sport=Futbal, league=2.Rusko, competitor=Sokol Saratov<-
+sport=Futbal, league=1.Švajčiarsko, competitor=Lugano<-
+sport=Futbal, league=2.Česko, competitor=Most<-
+sport=Futbal, league=1.Švédsko, competitor=Kalmar<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Forw.Örebro<-
+sport=Futbal, league=3.Fínsko-juh, competitor=KäPa<-
+sport=Futbal, league=1.Katar, competitor=Al Ahli Doha<-
+sport=Futbal, league=4.Škótsko, competitor=Albion Rov.<-
+sport=Futbal, league=1.Rakúsko, competitor=Rapid<-
+sport=Futbal, league=2.Japonsko, competitor=Yamaguchi<-
+sport=Futbal, league=1.Rakúsko, competitor=Ried<-
+sport=Futbal, league=1.Singapur, competitor=Hougang<-
+sport=Futbal, league=1.Brazília, competitor=Palmeiras SP<-
+sport=Futbal, league=2.Poľsko, competitor=Rakow Cz.<-
+sport=Futbal, league=5.Anglicko, competitor=Tranmere<-
+sport=Futbal, league=1.Egypt, competitor=ENPPI Cairo<-
+sport=Futbal, league=1.Mexiko, competitor=Tigres<-
+sport=Futbal, league=2.Brazília, competitor=Am.Mineiro<-
+sport=Futbal, league=1.Španielsko, competitor=San Sebastian<-
+sport=Futbal, league=1.Švajčiarsko, competitor=Luzern<-
+sport=Futbal, league=1.J.Kórea, competitor=Daejeon<-
+sport=Futbal, league=1.Salvádor, competitor=Chalatenango<-
+sport=Futbal, league=1.Kazachstan, competitor=Zhetysu<-
+sport=Futbal, league=1.Portugalsko, competitor=Ferreira<-
+sport=Futbal, league=2.Holandsko, competitor=Kerkrade<-
+sport=Futbal, league=1.Čína, competitor=Tianjin<-
+sport=Futbal, league=1.Venezuela, competitor=Dep.Zulia<-
+sport=Futbal, league=1.Chile, competitor=U.Católica<-
+sport=Futbal, league=1.Írsko, competitor=Longford<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Nitra<-
+sport=Futbal, league=2.Japonsko, competitor=Machida Zelvia<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Stjordals Blink<-
+sport=Futbal, league=2.Nórsko, competitor=Hodd<-
+sport=Futbal, league=2.Belgicko, competitor=Lierse<-
+sport=Futbal, league=3.Škótsko, competitor=Airdrie<-
+sport=Futbal, league=1.India, competitor=Bengaluru<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Orn Horten<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Ballymena<-
+sport=Futbal, league=1.Japonsko, competitor=Kashiwa<-
+sport=Futbal, league=3.Taliansko B, competitor=Maceratese<-
+sport=Futbal, league=1.SAE, competitor=Bani Yas<-
+sport=Futbal, league=1.Írsko, competitor=Drogheda<-
+sport=Futbal, league=3.Taliansko B, competitor=Ancona<-
+sport=Futbal, league=3.Anglicko, competitor=Bury<-
+sport=Futbal, league=4.Anglicko, competitor=Plymouth<-
+sport=Futbal, league=3.Česko, competitor=Union 2013<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Željezničar<-
+sport=Futbal, league=3.Nemecko, competitor=Lotte<-
+sport=Futbal, league=1.Rakúsko, competitor=Admira<-
+sport=Futbal, league=2.Belgicko, competitor=Geel<-
+sport=Futbal, league=2.Škótsko, competitor=Hibernian<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Traeff<-
+sport=Futbal, league=1.Slovinsko, competitor=Ol.Ľubľana<-
+sport=Futbal, league=1.Japonsko, competitor=Nagoya<-
+sport=Futbal, league=1.Ukrajina, competitor=Poltava<-
+sport=Futbal, league=1.Škótsko, competitor=Celtic<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Radnik Bijeljina<-
+sport=Futbal, league=2.Nórsko, competitor=Strommen<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Tonsberg<-
+sport=Futbal, league=2.Brazília, competitor=Oeste SP<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Arendal<-
+sport=Futbal, league=1.J.Afrika, competitor=Pretoria Univ.<-
+sport=Futbal, league=2.Island, competitor=HK Kopavogur<-
+sport=Futbal, league=1.Turecko, competitor=Gaziantep<-
+sport=Futbal, league=2.USA, competitor=Jacksonville Armada<-
+sport=Futbal, league=2.Brazília, competitor=Goiás GO<-
+sport=Futbal, league=1.Bielorusko, competitor=Novopolock<-
+sport=Futbal, league=1.Grécko, competitor=Panthrakikos<-
+sport=Futbal, league=2.Belgicko, competitor=Aalst<-
+sport=Futbal, league=2.Česko, competitor=Ústí n/L<-
+sport=Futbal, league=1.Japonsko, competitor=Hiroshima<-
+sport=Futbal, league=2.Rusko, competitor=Kaliningrad<-
+sport=Futbal, league=2.Brazília, competitor=Paysandu<-
+sport=Futbal, league=2.Francúzsko, competitor=GFC Ajaccio<-
+sport=Futbal, league=1.Salvádor, competitor=Sonsonate<-
+sport=Futbal, league=1.Rusko, competitor=Perm<-
+sport=Futbal, league=3.Taliansko A, competitor=Pro Piacenza<-
+sport=Futbal, league=2.Izrael, competitor=Hap.Petah Tikva<-
+sport=Futbal, league=2.Brazília, competitor=Sampaio Correa<-
+sport=Futbal, league=3.Taliansko C, competitor=Salernitana<-
+sport=Futbal, league=2.Japonsko, competitor=Gifu<-
+sport=Futbal, league=1.Salvádor, competitor=Pasaquina<-
+sport=Futbal, league=1.Uruguay, competitor=Tanque Sisley<-
+sport=Futbal, league=2.Brazília, competitor=Bahia Salv.<-
+sport=Futbal, league=1.Taliansko, competitor=Chievo<-
+sport=Futbal, league=1.SAE, competitor=Al Ahli Fujeira<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Rodde<-
+sport=Futbal, league=3.Taliansko A, competitor=Padova<-
+sport=Futbal, league=1.Slovinsko, competitor=Krka<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Slavija Sarajevo<-
+sport=Futbal, league=3.Taliansko A, competitor=Arezzo<-
+sport=Futbal, league=1.Bulharsko, competitor=L.Razgrad<-
+sport=Futbal, league=1.Bielorusko, competitor=Gorodeya<-
+sport=Futbal, league=3.Taliansko B, competitor=Siena<-
+sport=Futbal, league=1.Taliansko, competitor=Inter Milano<-
+sport=Futbal, league=1.USA, competitor=N.England<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Dun.Lužná<-
+sport=Futbal, league=3.Česko, competitor=Tachov<-
+sport=Futbal, league=1.Ekvádor, competitor=Cuenca<-
+sport=Futbal, league=1.Wales, competitor=Haverfordwest<-
+sport=Futbal, league=2.Poľsko, competitor=W.Suwalki<-
+sport=Futbal, league=2.Španielsko, competitor=Albacete<-
+sport=Futbal, league=2.Turecko, competitor=Buca<-
+sport=Futbal, league=1.Anglicko, competitor=Man.Utd.<-
+sport=Futbal, league=2.Brazília, competitor=Santa Cruz<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Potsdam<-
+sport=Futbal, league=1.Anglicko, competitor=West Ham<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Wolfsburg<-
+sport=Futbal, league=1.Rusko, competitor=FK Orenburg<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Notodden<-
+sport=Futbal, league=1.Austrália, competitor=Coast Mariners<-
+sport=Futbal, league=2.Island, competitor=Haukar<-
+sport=Futbal, league=1.Anglicko, competitor=Sunderland<-
+sport=Futbal, league=2.Brazília, competitor=Paraná<-
+sport=Futbal, league=3.Nemecko, competitor=Regensburg<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=K.Halden<-
+sport=Futbal, league=1.Belgicko, competitor=Charleroi<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Guijuelo<-
+sport=Futbal, league=3.Fínsko C, competitor=GBK Kokkola<-
+sport=Futbal, league=2.Španielsko, competitor=Mallorca<-
+sport=Futbal, league=1.Egypt, competitor=Al Zamalek<-
+sport=Futbal, league=1.SAE, competitor=Al Ain<-
+sport=Futbal, league=1.Írsko, competitor=Limerick 37<-
+sport=Futbal, league=2.Brazília, competitor=Paraná PR<-
+sport=Futbal, league=1.Nórsko, competitor=B.Bergen<-
+sport=Futbal, league=2.Taliansko, competitor=Frosinone<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Alcoyano<-
+sport=Futbal, league=1.Portugalsko, competitor=FC Porto<-
+sport=Futbal, league=2.Česko, competitor=Žižkov<-
+sport=Futbal, league=1.Singapur, competitor=Home Utd.<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Moss<-
+sport=Futbal, league=1.Španielsko, competitor=Levante<-
+sport=Futbal, league=1.Dánsko, competitor=Esbjerg<-
+sport=Futbal, league=2.Japonsko, competitor=Zw.Kanazawa<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Eidsvold<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Velký Meder<-
+sport=Futbal, league=1.Bielorusko, competitor=Isloch Minsk<-
+sport=Futbal, league=1.Katar, competitor=Al Arabi Doha<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Akropolis<-
+sport=Futbal, league=1.USA, competitor=Los Angeles<-
+sport=Futbal, league=2.Island, competitor=Vikingur Olaf.<-
+sport=Futbal, league=2.Francúzsko, competitor=Red Star<-
+sport=Futbal, league=1.Kolumbia, competitor=Jag.Cordoba<-
+sport=Futbal, league=1.Grécko, competitor=Olympiakos<-
+sport=Futbal, league=1.Paraguay, competitor=Dep.Santaní<-
+sport=Futbal, league=1.Island, competitor=Valur<-
+sport=Futbal, league=1.Kanada, competitor=Burlington SC<-
+sport=Futbal, league=2.Poľsko, competitor=Rozwoj Kat.<-
+sport=Futbal, league=3.Nemecko, competitor=Rostock<-
+sport=Futbal, league=1.Belgicko, competitor=Waregem<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Tynset<-
+sport=Futbal, league=1.Belgicko, competitor=Lokeren<-
+sport=Futbal, league=1.Grécko, competitor=Volou<-
+sport=Futbal, league=2.Taliansko, competitor=Livorno<-
+sport=Futbal, league=1.Kolumbia, competitor=Patriotas<-
+sport=Futbal, league=1.Španielsko, competitor=Elche<-
+sport=Futbal, league=1.Francúzsko, competitor=Rennes<-
+sport=Futbal, league=2.Brazília, competitor=ABC Natal<-
+sport=Futbal, league=4.Škótsko, competitor=East Stirling<-
+sport=Futbal, league=2.Škótsko, competitor=Alloa<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Lugano<-
+sport=Futbal, league=1.Paraguay, competitor=12 de Octubre<-
+sport=Futbal, league=2.Brazília, competitor=Bragantino<-
+sport=Futbal, league=3.Anglicko, competitor=Port Vale<-
+sport=Futbal, league=3.Fínsko C, competitor=V. Lapua<-
+sport=Futbal, league=2.Škótsko, competitor=Dumbarton<-
+sport=Futbal, league=3.Fínsko A, competitor=PePo Lappeenranta<-
+sport=Futbal, league=1.Švédsko, competitor=Djurgarden<-
+sport=Futbal, league=1.Rumunsko, competitor=CFR Cluj<-
+sport=Futbal, league=3.Fínsko-sever, competitor=Kerho 07<-
+sport=Futbal, league=3.Nemecko, competitor=Stutt.Kickers<-
+sport=Futbal, league=3.Česko, competitor=Domažlice<-
+sport=Futbal, league=1.Portugalsko, competitor=Gil Vicente<-
+sport=Futbal, league=2.Island, competitor=Keflavík<-
+sport=Futbal, league=1.Ukrajina, competitor=Mariupol<-
+sport=Futbal, league=2.Slovensko-východ, competitor=Poprad<-
+sport=Futbal, league=3.Anglicko, competitor=Gillingham<-
+sport=Futbal, league=2.Turecko, competitor=Balikesir<-
+sport=Futbal, league=2.Argentína, competitor=Guillermo Brown<-
+sport=Futbal, league=2.Izrael, competitor=Hap.Bnei Lod<-
+sport=Futbal, league=1.Salvádor, competitor=Isidro Metapán<-
+sport=Futbal, league=1.Panama, competitor=Atl.Nacional (PAN)<-
+sport=Futbal, league=1.Anglicko, competitor=Southampton<-
+sport=Futbal, league=1.Venezuela, competitor=Estud. de Caracas<-
+sport=Futbal, league=3.Nemecko, competitor=Halle<-
+sport=Futbal, league=2.Chile, competitor=La Serena<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Tudelano<-
+sport=Futbal, league=1.J.Afrika, competitor=O.Pirates<-
+sport=Futbal, league=3.Škótsko, competitor=Stirling<-
+sport=Futbal, league=5.Anglicko, competitor=Lincoln City<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Brattvag<-
+sport=Futbal, league=2.Fínsko, competitor=Valkeakoski<-
+sport=Futbal, league=1.Švédsko, competitor=Halmstad<-
+sport=Futbal, league=2.Španielsko, competitor=Bilbao B<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Brumunddal<-
+sport=Futbal, league=1.Anglicko, competitor=Aston Villa<-
+sport=Futbal, league=1.Škótsko, competitor=FC Dundee<-
+sport=Futbal, league=2.Japonsko, competitor=Mito<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Lyn<-
+sport=Futbal, league=1.Egypt, competitor=Ghazl Al Mehalla<-
+sport=Futbal, league=1.Taliansko, competitor=AC Milan<-
+sport=Futbal, league=1.Ukrajina, competitor=M.Charkov<-
+sport=Futbal, league=2.Brazília, competitor=CRB Maceio<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Sleipner<-
+sport=Futbal, league=1.Francúzsko, competitor=Lille<-
+sport=Futbal, league=2.Japonsko, competitor=Kitakyushu<-
+sport=Futbal, league=1.Peru, competitor=Atl.Alianza<-
+sport=Futbal, league=3.Fínsko-západ, competitor=Ekenas SC<-
+sport=Futbal, league=1.Peru, competitor=Sport Loreto<-
+sport=Futbal, league=1.Srbsko, competitor=Jav.Ivanjica<-
+sport=Futbal, league=1.Bulharsko, competitor=Marek Dupnica<-
+sport=Futbal, league=1.Argentína, competitor=Atl.Rafaela<-
+sport=Futbal, league=2.Anglicko, competitor=Bournemouth<-
+sport=Futbal, league=1.Estónsko, competitor=Rakvere Tarvas<-
+sport=Futbal, league=1.Kolumbia, competitor=Dep.Cali<-
+sport=Futbal, league=1.Paraguay, competitor=CS S.Lorenzo<-
+sport=Futbal, league=3.Fínsko-juh, competitor=Ilves Kissat<-
+sport=Futbal, league=2.Nemecko, competitor=Freiburg<-
+sport=Futbal, league=3.Nemecko, competitor=Dortmund am.<-
+sport=Futbal, league=1.Singapur, competitor=Warriors<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Dubnica<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=1.FC Köln<-
+sport=Futbal, league=1.SAE, competitor=Al Shaab Sharjah<-
+sport=Futbal, league=1.Paraguay, competitor=River Plate Asuncion<-
+sport=Futbal, league=1.Fínsko, competitor=Kuopio<-
+sport=Futbal, league=2.Poľsko, competitor=Nowy Sacz<-
+sport=Futbal, league=1.Švajčiarsko, competitor=St.Gallen<-
+sport=Futbal, league=2.USA, competitor=Minnesota<-
+sport=Futbal, league=1.SAE, competitor=Al Jazeera<-
+sport=Futbal, league=2.Dánsko, competitor=Hobro<-
+sport=Futbal, league=2.Brazília, competitor=Vasco da G.<-
+sport=Futbal, league=3.Fínsko-východ, competitor=Myllypuro<-
+sport=Futbal, league=5.Anglicko, competitor=Barrow<-
+sport=Futbal, league=1.Srbsko, competitor=OFK Beograd<-
+sport=Futbal, league=1.Wales, competitor=Bangor<-
+sport=Futbal, league=1.Estónsko, competitor=Lev.Tallin<-
+sport=Futbal, league=1.Švajčiarsko, competitor=Basel<-
+sport=Futbal, league=1.Panama, competitor=Chorrillo<-
+sport=Futbal, league=1.Panama, competitor=Plaza Amador<-
+sport=Futbal, league=1.Chile, competitor=San Luis<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Sand SC<-
+sport=Futbal, league=5.Anglicko, competitor=Grimsby<-
+sport=Futbal, league=2.Dánsko, competitor=HB Köge<-
+sport=Futbal, league=1.Chorvátsko, competitor=Istra 1961<-
+sport=Futbal, league=1.Taliansko, competitor=Lazio<-
+sport=Futbal, league=1.Wales, competitor=Aberystwyth<-
+sport=Futbal, league=2.Argentína, competitor=Brown de Adrogué<-
+sport=Futbal, league=2.Francúzsko, competitor=Troyes<-
+sport=Futbal, league=1.Slovinsko, competitor=Koper<-
+sport=Futbal, league=3.Fínsko B, competitor=Honka Espoo<-
+sport=Futbal, league=2.Argentína, competitor=Talleres<-
+sport=Futbal, league=3.Česko, competitor=Benešov<-
+sport=Futbal, league=1.Turecko, competitor=Akhisar<-
+sport=Futbal, league=1.Rusko, competitor=Ufa<-
+sport=Futbal, league=1.J.Kórea, competitor=Suwon<-
+sport=Futbal, league=1.Poľsko, competitor=Belchatów<-
+sport=Futbal, league=1.Bielorusko, competitor=FK Vitebsk<-
+sport=Futbal, league=1.Japonsko, competitor=Yamagata<-
+sport=Futbal, league=2.Turecko, competitor=Altinordu<-
+sport=Futbal, league=1.Grécko, competitor=Levadiakos<-
+sport=Futbal, league=2.Mexiko, competitor=Zacatepec<-
+sport=Futbal, league=2.Turecko, competitor=Ordu<-
+sport=Futbal, league=1.Mexiko, competitor=Santos Laguna<-
+sport=Futbal, league=1.Venezuela, competitor=Atl.Venezuela<-
+sport=Futbal, league=1.Peru, competitor=Comerciantes Un.<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Elverum<-
+sport=Futbal, league=3.Anglicko, competitor=Coventry<-
+sport=Futbal, league=3.Anglicko, competitor=Preston<-
+sport=Futbal, league=2.Rakúsko, competitor=Hartberg<-
+sport=Futbal, league=Fortuna liga, competitor=Senica<-
+sport=Futbal, league=2.Nemecko, competitor=Fürth<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Sloboda Tuzla<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Portadown<-
+sport=Futbal, league=1.Brazília, competitor=Santos<-
+sport=Futbal, league=2.Rusko, competitor=Novosibirsk<-
+sport=Futbal, league=1.Srbsko, competitor=Rad Beograd<-
+sport=Futbal, league=3.Taliansko B, competitor=Gubbio<-
+sport=Futbal, league=1.Fínsko, competitor=Lahti<-
+sport=Futbal, league=1.Belgicko, competitor=Kortrijk<-
+sport=Futbal, league=4.Škótsko, competitor=Elgin<-
+sport=Futbal, league=2.Portugalsko, competitor=Santa Clara<-
+sport=Futbal, league=1.Taliansko, competitor=Genoa<-
+sport=Futbal, league=2.Španielsko, competitor=Osasuna<-
+sport=Futbal, league=3.Taliansko B, competitor=Pisa<-
+sport=Futbal, league=1.Mexiko, competitor=Toluca<-
+sport=Futbal, league=2.Slovensko-východ, competitor=Haniska<-
+sport=Futbal, league=1.Vietnam, competitor=Hai Phong<-
+sport=Futbal, league=1.Čína, competitor=Chongqing Lifan<-
+sport=Futbal, league=2.Francúzsko, competitor=Le Havre<-
+sport=Futbal, league=2.Holandsko, competitor=Telstar<-
+sport=Futbal, league=2.Poľsko, competitor=Widzew Lódž<-
+sport=Futbal, league=5.Anglicko, competitor=Torquay<-
+sport=Futbal, league=1.Turecko, competitor=Erciyes<-
+sport=Futbal, league=1.Chile, competitor=Everton Vina del Mar<-
+sport=Futbal, league=1.Rusko, competitor=Jekaterinburg<-
+sport=Futbal, league=2.Nemecko, competitor=Paderborn<-
+sport=Futbal, league=1.Wales, competitor=Carmarthen<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Hilal<-
+sport=Futbal, league=1.Holandsko, competitor=Kerkrade<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Orubah<-
+sport=Futbal, league=1.Írsko, competitor=Boh.Dublin<-
+sport=Futbal, league=1.Lotyšsko, competitor=FK Liepaja<-
+sport=Futbal, league=1.Vietnam, competitor=Quang Ninh<-
+sport=Futbal, league=1.Portugalsko, competitor=Moreira<-
+sport=Futbal, league=2.Chile, competitor=Coquimbo Unido<-
+sport=Futbal, league=3.Fínsko B, competitor=TPV Tampere<-
+sport=Futbal, league=3.Taliansko C, competitor=Foggia<-
+sport=Futbal, league=1.Nórsko, competitor=Stavanger<-
+sport=Futbal, league=2.Chile, competitor=Puerto Montt<-
+sport=Futbal, league=1.Katar, competitor=Al Kharaityat<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Sodertalje FF<-
+sport=Futbal, league=2.Španielsko, competitor=Lugo<-
+sport=Futbal, league=2.Poľsko, competitor=B.Bytow<-
+sport=Futbal, league=1.Španielsko, competitor=Betis<-
+sport=Futbal, league=1.Anglicko, competitor=Burnley<-
+sport=Futbal, league=3.Taliansko B, competitor=Lucchese<-
+sport=Futbal, league=3.Fínsko-sever, competitor=Kiisto Vaasa<-
+sport=Futbal, league=1.Guatemala, competitor=Heredia<-
+sport=Futbal, league=3.Francúzsko, competitor=Sedan<-
+sport=Futbal, league=2.Izrael, competitor=Hap.Jerusalem<-
+sport=Futbal, league=2.Nemecko, competitor=Darmstadt 98<-
+sport=Futbal, league=1.USA, competitor=New York City<-
+sport=Futbal, league=2.Japonsko, competitor=Verdy<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Martin<-
+sport=Futbal, league=1.Srbsko, competitor=DS Pecinci<-
+sport=Futbal, league=2.Škótsko, competitor=Queen of S.<-
+sport=Futbal, league=2.Španielsko, competitor=Mirandes<-
+sport=Futbal, league=2.Švédsko, competitor=Värnamo<-
+sport=Futbal, league=1.Fínsko, competitor=VPS Vaasa<-
+sport=Futbal, league=1.Ekvádor, competitor=CD River Plate<-
+sport=Futbal, league=2.Poľsko, competitor=Legnica<-
+sport=Futbal, league=4.Anglicko, competitor=Southend<-
+sport=Futbal, league=3.Fínsko-sever, competitor=Santa Claus<-
+sport=Futbal, league=2.Švédsko, competitor=Atvidaberg<-
+sport=Futbal, league=1.Írsko, competitor=Wexford<-
+sport=Futbal, league=1.USA, competitor=Vancouver<-
+sport=Futbal, league=1.Belgicko, competitor=St.Truiden<-
+sport=Futbal, league=1.Grécko, competitor=Kalloni<-
+sport=Futbal, league=1.Brazília, competitor=Chapecoense<-
+sport=Futbal, league=1.Lotyšsko, competitor=Sp.Jurmala<-
+sport=Futbal, league=3.Taliansko B, competitor=Grosseto<-
+sport=Futbal, league=2.Turecko, competitor=Göztepe<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=R.Majadahonda<-
+sport=Futbal, league=1.J.Kórea, competitor=Sangju<-
+sport=Futbal, league=1.Srbsko, competitor=Bačka Palanka<-
+sport=Futbal, league=1.Litva, competitor=Žalg.Vilnius<-
+sport=Futbal, league=5.Anglicko, competitor=Halifax<-
+sport=Futbal, league=1.Holandsko, competitor=Heracles<-
+sport=Futbal, league=1.Chorvátsko, competitor=Zadar<-
+sport=Futbal, league=1.Nemecko, competitor=Hertha<-
+sport=Futbal, league=3.Taliansko C, competitor=Benevento<-
+sport=Futbal, league=1.Francúzsko, competitor=GFC Ajaccio<-
+sport=Futbal, league=1.Brazília, competitor=Sao Paulo<-
+sport=Futbal, league=1.Holandsko, competitor=Zwolle<-
+sport=Futbal, league=1.Venezuela, competitor=Aragua<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Aarau<-
+sport=Futbal, league=1.Malta, competitor=Tarxien Rainbows<-
+sport=Futbal, league=3.Anglicko, competitor=Colchester<-
+sport=Futbal, league=1.Katar, competitor=Al Sadd<-
+sport=Futbal, league=2.Mexiko, competitor=Juarez<-
+sport=Futbal, league=2.USA, competitor=Ft.Lauderdale<-
+sport=Futbal, league=1.Vietnam, competitor=Hoang Anh Gia Lai<-
+sport=Futbal, league=1.Bielorusko, competitor=Vitebsk<-
+sport=Futbal, league=1.Kanada, competitor=Ukraine Utd.<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Shoalah<-
+sport=Futbal, league=2.Škótsko, competitor=Cowdenbeath<-
+sport=Futbal, league=2.Anglicko, competitor=Middlesbrough<-
+sport=Futbal, league=2.Argentína, competitor=Santamarina<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Linense<-
+sport=Futbal, league=2.Nemecko, competitor=FSV Frankfurt<-
+sport=Futbal, league=1.Slovinsko, competitor=Zavrc<-
+sport=Futbal, league=1.Mexiko, competitor=Puebla<-
+sport=Futbal, league=2.Poľsko, competitor=Ch.Glogow<-
+sport=Futbal, league=1.Peru, competitor=Melgar<-
+sport=Futbal, league=2.Nórsko, competitor=Hönefoss<-
+sport=Futbal, league=2.Francúzsko, competitor=FC Paris<-
+sport=Futbal, league=1.Paraguay, competitor=Sol de America<-
+sport=Futbal, league=1.Turecko, competitor=Basaksehir<-
+sport=Futbal, league=1.Egypt, competitor=El Entag<-
+sport=Futbal, league=1.Grécko, competitor=Veria<-
+sport=Futbal, league=1.Írsko, competitor=Sligo<-
+sport=Futbal, league=1.Švédsko, competitor=Hammarby<-
+sport=Futbal, league=2.Anglicko, competitor=Derby<-
+sport=Futbal, league=3.Taliansko A, competitor=Monza<-
+sport=Futbal, league=1.J.Kórea, competitor=Gwangju<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Harstad<-
+sport=Futbal, league=1.Ekvádor, competitor=Olmedo<-
+sport=Futbal, league=1.Taliansko, competitor=Udinese<-
+sport=Futbal, league=1.Peru, competitor=Los Caimanes<-
+sport=Futbal, league=5.Anglicko, competitor=Wrexham<-
+sport=Futbal, league=1.Maďarsko, competitor=Pécs<-
+sport=Futbal, league=1.SAE, competitor=Al Wahda<-
+sport=Futbal, league=2.Poľsko, competitor=Plock<-
+sport=Futbal, league=1.Anglicko, competitor=Leicester<-
+sport=Futbal, league=1.Panama, competitor=Alianza Panama<-
+sport=Futbal, league=3.Anglicko, competitor=Crawley<-
+sport=Futbal, league=2.Nemecko, competitor=K lautern<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Tromsdalen<-
+sport=Futbal, league=1.Francúzsko, competitor=Evian TG<-
+sport=Futbal, league=1.Holandsko, competitor=Dordrecht<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Compostela<-
+sport=Futbal, league=1.Brazília, competitor=Fluminense<-
+sport=Futbal, league=1.Argentína, competitor=River Plate<-
+sport=Futbal, league=1.J.Kórea, competitor=Busan<-
+sport=Futbal, league=1.Egypt, competitor=Misr Lel Makasa<-
+sport=Futbal, league=1.Maďarsko, competitor=Paks<-
+sport=Futbal, league=1.Rumunsko, competitor=Astra Giurgiu<-
+sport=Futbal, league=1.Kolumbia, competitor=Huila<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Somozas<-
+sport=Futbal, league=1.J.Afrika, competitor=Maritzburg Utd.<-
+sport=Futbal, league=1.Taliansko, competitor=Parma<-
+sport=Futbal, league=2.Rakúsko, competitor=Floridsdorfer AC<-
+sport=Futbal, league=1.Honduras, competitor=Olimpia CD<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Barcelona B<-
+sport=Futbal, league=1.Cyprus, competitor=AEL Limassol<-
+sport=Futbal, league=1.Chorvátsko, competitor=NK Zagreb<-
+sport=Futbal, league=4.Anglicko, competitor=Notts C.<-
+sport=Futbal, league=1.Ekvádor, competitor=Independiente<-
+sport=Futbal, league=2.Francúzsko, competitor=Clermont<-
+sport=Futbal, league=1.SAE, competitor=Al Ittihad Kalba<-
+sport=Futbal, league=2.Belgicko, competitor=Tubize<-
+sport=Futbal, league=1.Holandsko, competitor=Excelsior<-
+sport=Futbal, league=1.Dánsko, competitor=Silkeborg<-
+sport=Futbal, league=3.Fínsko A, competitor=Sudet<-
+sport=Futbal, league=1.Malta, competitor=Naxxar Lions<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Levante B<-
+sport=Futbal, league=1.Brazília, competitor=Botafogo<-
+sport=Futbal, league=1.Brazília, competitor=Ponte Preta SP<-
+sport=Futbal, league=1.Ekvádor, competitor=Mushuc Runa<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Šamorín<-
+sport=Futbal, league=1.Rusko, competitor=Kub.Krasnodar<-
+sport=Futbal, league=1.Brazília, competitor=Atletico PR<-
+sport=Futbal, league=3.Fínsko A, competitor=KuFu 98<-
+sport=Futbal, league=1.Rumunsko, competitor=Piatra Neamt<-
+sport=Futbal, league=1.Grécko, competitor=Asteras<-
+sport=Futbal, league=2.Fínsko, competitor=Kotka<-
+sport=Futbal, league=2.Škótsko, competitor=Hearts<-
+sport=Futbal, league=2.Švédsko, competitor=Jönköping Sodra<-
+sport=Futbal, league=1.Chorvátsko, competitor=Sl.Belupo<-
+sport=Futbal, league=4.Škótsko, competitor=Clyde<-
+sport=Futbal, league=1.Katar, competitor=Qatar SC<-
+sport=Futbal, league=3.Nemecko, competitor=Osnabrück<-
+sport=Futbal, league=1.Škótsko, competitor=Inverness<-
+sport=Futbal, league=3.Fínsko-západ, competitor=MuSa<-
+sport=Futbal, league=2.Island, competitor=Fram<-
+sport=Futbal, league=1.J.Afrika, competitor=Highlands<-
+sport=Futbal, league=2.Rusko, competitor=Sachalin<-
+sport=Futbal, league=1.Čína, competitor=Guizhou Renhe<-
+sport=Futbal, league=1.Nórsko, competitor=Aalesund<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Fram Larvik<-
+sport=Futbal, league=2.Brazília, competitor=América RN<-
+sport=Futbal, league=1.Rumunsko, competitor=Steaua<-
+sport=Futbal, league=1.Bolívia, competitor=Sport Boys W.<-
+sport=Futbal, league=1.Guatemala, competitor=Xelaju<-
+sport=Futbal, league=5.Anglicko, competitor=Gateshead<-
+sport=Futbal, league=1.Egypt, competitor=Wadi Degla<-
+sport=Futbal, league=2.Nemecko, competitor=Aue<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Šamorín<-
+sport=Futbal, league=3.Francúzsko, competitor=Cons.Marseille<-
+sport=Futbal, league=1.Poľsko, competitor=Gdaňsk<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Arendal<-
+sport=Futbal, league=3.Taliansko C, competitor=Catanzaro<-
+sport=Futbal, league=1.Rumunsko, competitor=FC Brasov<-
+sport=Futbal, league=3.Česko, competitor=Brozany<-
+sport=Futbal, league=1.Estónsko, competitor=Paide Linnameeskond<-
+sport=Futbal, league=1.Belgicko, competitor=Lierse<-
+sport=Futbal, league=3.Taliansko A, competitor=Renate<-
+sport=Futbal, league=1.Argentína, competitor=Boca Juniors<-
+sport=Futbal, league=1.Nórsko, competitor=Kristiansand<-
+sport=Futbal, league=2.Poľsko, competitor=Ch.Chojnice<-
+sport=Futbal, league=1.Azerbajdžan, competitor=Kapaz<-
+sport=Futbal, league=2.USA, competitor=Puerto Rico<-
+sport=Futbal, league=1.Maďarsko, competitor=Kecskemét<-
+sport=Futbal, league=2.Poľsko, competitor=Lubin<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Šaľa<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Ullensaker<-
+sport=Futbal, league=3.Fínsko-západ, competitor=BK 46<-
+sport=Futbal, league=1.Paraguay, competitor=Nacional A.<-
+sport=Futbal, league=3.Taliansko B, competitor=Spal Ferrara<-
+sport=Futbal, league=1.Singapur, competitor=Young Lions<-
+sport=Futbal, league=1.Austrália, competitor=W.Sydney<-
+sport=Futbal, league=2.Česko, competitor=Olomouc<-
+sport=Futbal, league=3.Fínsko-západ, competitor=SalPa<-
+sport=Futbal, league=2.Izrael, competitor=Hap.Rishon LeZion<-
+sport=Futbal, league=1.Slovinsko, competitor=Celje<-
+sport=Futbal, league=2.Holandsko, competitor=Venlo<-
+sport=Futbal, league=1.Salvádor, competitor=Fas<-
+sport=Futbal, league=1.Venezuela, competitor=Tucanes<-
+sport=Futbal, league=1.Vietnam, competitor=Song Lam Nghe An<-
+sport=Futbal, league=1.J.Kórea, competitor=Seoul<-
+sport=Futbal, league=1.Švédsko, competitor=Jönköping Sodra<-
+sport=Futbal, league=1.Dánsko, competitor=Horsens<-
+sport=Futbal, league=1.Portugalsko, competitor=Nacional<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Gijón B<-
+sport=Futbal, league=1.Mexiko, competitor=Atlas<-
+sport=Futbal, league=2.Slovensko-západ, competitor=B.Bystrica<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Östers<-
+sport=Futbal, league=1.Turecko, competitor=Fenerbahce<-
+sport=Futbal, league=2.Španielsko, competitor=Oviedo<-
+sport=Futbal, league=2.Rusko, competitor=Nižnekamsk<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Villanovense<-
+sport=Futbal, league=1.Portugalsko, competitor=Maritimo<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Stord<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Bremen<-
+sport=Futbal, league=1.Rusko, competitor=St.Peterburg<-
+sport=Futbal, league=1.Argentína, competitor=Gimnasia LP<-
+sport=Futbal, league=1.Portugalsko, competitor=Guimaraes<-
+sport=Futbal, league=1.Paraguay, competitor=Rubio Nu<-
+sport=Futbal, league=2.Fínsko, competitor=PK Helsinki<-
+sport=Futbal, league=1.Brazília, competitor=Gremio<-
+sport=Futbal, league=2.Holandsko, competitor=Volendam<-
+sport=Futbal, league=1.Vietnam, competitor=HP Ha Noi<-
+sport=Futbal, league=1.Brazília, competitor=Vitória BA<-
+sport=Futbal, league=2.Dánsko, competitor=Helsingor<-
+sport=Futbal, league=2.Škótsko, competitor=Livingston<-
+sport=Futbal, league=1.Čína, competitor=Jiangsu<-
+sport=Futbal, league=2.Mexiko, competitor=San Luis<-
+sport=Futbal, league=1.Fínsko, competitor=IFK Helsinki<-
+sport=Futbal, league=2.Nemecko, competitor=Bielefeld<-
+sport=Futbal, league=1.Poľsko, competitor=Gliwice<-
+sport=Futbal, league=2.Škótsko, competitor=Morton<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Hoffenheim<-
+sport=Futbal, league=2.Belgicko, competitor=Deinze<-
+sport=Futbal, league=1.Japonsko, competitor=Tokushima<-
+sport=Futbal, league=3.Taliansko A, competitor=Erminio<-
+sport=Futbal, league=1.Írsko, competitor=Derry<-
+sport=Futbal, league=1.Kazachstan, competitor=Okzhetpes<-
+sport=Futbal, league=1.Anglicko, competitor=Arsenal<-
+sport=Futbal, league=1.Chile, competitor=Cobreloa<-
+sport=Futbal, league=2.Nórsko, competitor=Nest Sotra<-
+sport=Futbal, league=1.J.Afrika, competitor=Free SS<-
+sport=Futbal, league=1.Brazília, competitor=Figueirense SC<-
+sport=Futbal, league=1.Kostarika, competitor=Pér.Zeledón<-
+sport=Futbal, league=2.Mexiko, competitor=Murcielagos<-
+sport=Futbal, league=2.Slovensko-východ, competitor=Prešov<-
+sport=Futbal, league=1.Bulharsko, competitor=Bot.Plovdiv<-
+sport=Futbal, league=1.Holandsko, competitor=Heerenveen<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Drina Zvornik<-
+sport=Futbal, league=2.Chile, competitor=Rang.Talca<-
+sport=Futbal, league=1.J.Afrika, competitor=Amazulu D.<-
+sport=Futbal, league=2.Japonsko, competitor=Omiya<-
+sport=Futbal, league=1.Poľsko, competitor=Biel.Biala<-
+sport=Futbal, league=3.Taliansko A, competitor=Südtirol<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Nardo<-
+sport=Futbal, league=2.Nórsko, competitor=Sandefjord<-
+sport=Futbal, league=3.Taliansko C, competitor=Monopoli<-
+sport=Futbal, league=1.Island, competitor=Tróttur Reyk.<-
+sport=Futbal, league=1.Rusko, competitor=Torpedo M.<-
+sport=Futbal, league=1.Turecko, competitor=Antalya<-
+sport=Futbal, league=3.Švédsko-sever, competitor=IFK Lulea<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Fana<-
+sport=Futbal, league=1.Brazília, competitor=Corinthians SP<-
+sport=Futbal, league=1.India, competitor=Shillong Lajong<-
+sport=Futbal, league=1.Mexiko, competitor=América<-
+sport=Futbal, league=2.Portugalsko, competitor=Mafra<-
+sport=Futbal, league=1.Kanada, competitor=Milton SC<-
+sport=Futbal, league=2.Nemecko, competitor=Düsseldorf<-
+sport=Futbal, league=2.Chile, competitor=Dep.Concepcion<-
+sport=Futbal, league=2.Francúzsko, competitor=Chateauroux<-
+sport=Futbal, league=1.Francúzsko, competitor=Troyes<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Follo<-
+sport=Futbal, league=2.Holandsko, competitor=Go Ahead Eagles<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Wil<-
+sport=Futbal, league=1.Argentína, competitor=Defensa<-
+sport=Futbal, league=2.Argentína, competitor=Ferro<-
+sport=Futbal, league=1.Brazília, competitor=Vitória<-
+sport=Futbal, league=3.Taliansko B, competitor=Pontedera<-
+sport=Futbal, league=1.Kolumbia, competitor=Chicó<-
+sport=Futbal, league=2.Španielsko, competitor=Santander<-
+sport=Futbal, league=2.Švédsko, competitor=Degerfors<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Široki Brijeg<-
+sport=Futbal, league=2.Francúzsko, competitor=Dijon<-
+sport=Futbal, league=1.Egypt, competitor=El Shorta<-
+sport=Futbal, league=2.Holandsko, competitor=FC Eindhoven<-
+sport=Futbal, league=3.Fínsko-východ, competitor=JiPPO Joensuu<-
+sport=Futbal, league=1.Katar, competitor=Al Rayyan<-
+sport=Futbal, league=2.Francúzsko, competitor=Evian TG<-
+sport=Futbal, league=2.Švédsko, competitor=Sirius<-
+sport=Futbal, league=1.Česko, competitor=Slavia<-
+sport=Futbal, league=2.Francúzsko, competitor=AC Ajaccio<-
+sport=Futbal, league=1.Anglicko, competitor=Cr.Palace<-
+sport=Futbal, league=2.Írsko, competitor=UC Dublin<-
+sport=Futbal, league=3.Fínsko-sever, competitor=YPA<-
+sport=Futbal, league=1.Španielsko, competitor=Celta Vigo<-
+sport=Futbal, league=1.Cyprus, competitor=Doxa<-
+sport=Futbal, league=2.Francúzsko, competitor=Laval<-
+sport=Futbal, league=2.Holandsko, competitor=Oss<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Flekkeroy<-
+sport=Futbal, league=2.Izrael, competitor=Hap.Ashkelon<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Pitea<-
+sport=Futbal, league=1.Kazachstan, competitor=Taraz<-
+sport=Futbal, league=2.Turecko, competitor=Giresun<-
+sport=Futbal, league=4.Škótsko, competitor=Queens Park<-
+sport=Futbal, league=1.Poľsko, competitor=Kielce<-
+sport=Futbal, league=1.Chile, competitor=A.Italiano<-
+sport=Futbal, league=2.Rakúsko, competitor=A.Klagenfurt<-
+sport=Futbal, league=2.Taliansko, competitor=Avellino<-
+sport=Futbal, league=1.Švajčiarsko, competitor=Vaduz<-
+sport=Futbal, league=1.Uruguay, competitor=Defensor<-
+sport=Futbal, league=1.Maďarsko, competitor=Nyíregyháza<-
+sport=Futbal, league=1.Cyprus, competitor=Aris Limassol<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Badalona<-
+sport=Futbal, league=1.Belgicko, competitor=Waasland Bev.<-
+sport=Futbal, league=1.Švajčiarsko, competitor=Thun<-
+sport=Futbal, league=1.J.Afrika, competitor=Chippa Utd<-
+sport=Futbal, league=1.Paraguay, competitor=Libertad A.<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Ml.Doboj Kakanj<-
+sport=Futbal, league=1.Guatemala, competitor=Carcha<-
+sport=Futbal, league=3.Nemecko, competitor=Stuttgart am.<-
+sport=Futbal, league=5.Anglicko, competitor=Braintree<-
+sport=Futbal, league=2.Argentína, competitor=Estudiantes San Luis<-
+sport=Futbal, league=1.Azerbajdžan, competitor=Ravan Baku<-
+sport=Futbal, league=2.Francúzsko, competitor=Auxerre<-
+sport=Futbal, league=1.Poľsko, competitor=Gdynia<-
+sport=Futbal, league=2.Mexiko, competitor=Caf.Tapachula<-
+sport=Futbal, league=1.Austrália, competitor=Wellington<-
+sport=Futbal, league=5.Anglicko, competitor=Altrincham<-
+sport=Futbal, league=1.Venezuela, competitor=Zulia<-
+sport=Futbal, league=1.Ekvádor, competitor=Nac.Quito<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Merida<-
+sport=Futbal, league=3.Anglicko, competitor=Fleetwood<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Trnava C<-
+sport=Futbal, league=2.Dánsko, competitor=Roskilde<-
+sport=Futbal, league=2.Španielsko, competitor=Cordoba<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Taawon<-
+sport=Futbal, league=2.Írsko, competitor=Cabinteely<-
+sport=Futbal, league=1.USA, competitor=New York RB<-
+sport=Futbal, league=3.Fínsko-západ, competitor=Masku<-
+sport=Futbal, league=1.Rusko, competitor=FK Rostov<-
+sport=Futbal, league=1.Srbsko, competitor=Rad.Surdulica<-
+sport=Futbal, league=1.Taliansko, competitor=Cesena<-
+sport=Futbal, league=2.Mexiko, competitor=Coras Tepic<-
+sport=Futbal, league=2.Dánsko, competitor=Nyköbing<-
+sport=Futbal, league=1.Slovinsko, competitor=N.Gorica<-
+sport=Futbal, league=3.Fínsko-východ, competitor=Viikingit Helsinki<-
+sport=Futbal, league=1.Ukrajina, competitor=Š.Doneck<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Brage<-
+sport=Futbal, league=1.Nemecko, competitor=Bremen<-
+sport=Futbal, league=3.Nemecko, competitor=Chemnitzer<-
+sport=Futbal, league=2.Izrael, competitor=Beitar Tel Aviv Ramla<-
+sport=Futbal, league=1.Uruguay, competitor=Atenas<-
+sport=Futbal, league=1.Francúzsko, competitor=Paris SG<-
+sport=Futbal, league=1.USA, competitor=Salt Lake<-
+sport=Futbal, league=3.Fínsko-sever, competitor=JBK Pietarsaari<-
+sport=Futbal, league=1.Brazília, competitor=Criciúma<-
+sport=Futbal, league=1.Nórsko, competitor=Val.Oslo<-
+sport=Futbal, league=1.Kolumbia, competitor=Cortuluá<-
+sport=Futbal, league=1.Portugalsko, competitor=Estoril<-
+sport=Futbal, league=1.Honduras, competitor=Real CD Espana<-
+sport=Futbal, league=2.Chile, competitor=S.Marcos Arica<-
+sport=Futbal, league=3.Taliansko A, competitor=Pavia<-
+sport=Futbal, league=1.Estónsko, competitor=Paide<-
+sport=Futbal, league=2.Japonsko, competitor=JEF United<-
+sport=Futbal, league=1.Slovinsko, competitor=Aluminij<-
+sport=Futbal, league=1.Egypt, competitor=Al Mokawloon<-
+sport=Futbal, league=2.Japonsko, competitor=Sapporo<-
+sport=Futbal, league=1.Argentína, competitor=Patr.Parana<-
+sport=Futbal, league=2.Česko, competitor=Třinec<-
+sport=Futbal, league=1.Cyprus, competitor=Othellos Athienou<-
+sport=Futbal, league=1.Estónsko, competitor=Viljandi<-
+sport=Futbal, league=1.Litva, competitor=Gran.Klaipeda<-
+sport=Futbal, league=1.India, competitor=Sporting Club Goa<-
+sport=Futbal, league=2.Nemecko, competitor=Mün.1860<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Barakaldo<-
+sport=Futbal, league=3.Fínsko B, competitor=Klubi 04<-
+sport=Futbal, league=1.Poľsko, competitor=Cracovia<-
+sport=Futbal, league=1.Ukrajina, competitor=Dnepropet.<-
+sport=Futbal, league=1.Rumunsko, competitor=Chiajna<-
+sport=Futbal, league=1.Srbsko, competitor=Radnički Niš<-
+sport=Futbal, league=1.India, competitor=Shivajians DSK<-
+sport=Futbal, league=2.Poľsko, competitor=Nieciecza<-
+sport=Futbal, league=1.Nórsko, competitor=Stabaek<-
+sport=Futbal, league=2.Švédsko, competitor=Assyriska<-
+sport=Futbal, league=2.Belgicko, competitor=Roeselare<-
+sport=Futbal, league=1.SAE, competitor=Al Dhafra<-
+sport=Futbal, league=1.Island, competitor=Vestmannaeyjar<-
+sport=Futbal, league=2.Holandsko, competitor=Achilles 29<-
+sport=Futbal, league=1.Peru, competitor=Huancayo<-
+sport=Futbal, league=1.Rusko, competitor=Kazaň<-
+sport=Futbal, league=1.Turecko, competitor=Genclerbirligi<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Lausanne<-
+sport=Futbal, league=2.Brazília, competitor=Avai SC<-
+sport=Futbal, league=1.Cyprus, competitor=Apollon Lim.<-
+sport=Futbal, league=3.Taliansko C, competitor=Martina Franca<-
+sport=Futbal, league=5.Anglicko, competitor=Chester<-
+sport=Futbal, league=3.Nemecko, competitor=U´haching<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Qviding<-
+sport=Futbal, league=1.Rakúsko, competitor=Wolfsberg<-
+sport=Futbal, league=3.Taliansko B, competitor=Arezzo<-
+sport=Futbal, league=3.Francúzsko, competitor=Colmar<-
+sport=Futbal, league=1.Rumunsko, competitor=Din.Bukurešť<-
+sport=Futbal, league=2.Španielsko, competitor=Zaragoza<-
+sport=Futbal, league=1.Vietnam, competitor=Dong Nai Berjaya<-
+sport=Futbal, league=2.Anglicko, competitor=Shef.Wed.<-
+sport=Futbal, league=1.Austrália, competitor=Newcastle<-
+sport=Futbal, league=1.Česko, competitor=Příbram<-
+sport=Futbal, league=1.Brazília, competitor=Vasco da G.<-
+sport=Futbal, league=1.Malta, competitor=Balzan<-
+sport=Futbal, league=1.Japonsko, competitor=G.Osaka<-
+sport=Futbal, league=1.Wales, competitor=Bala<-
+sport=Futbal, league=2.Brazília, competitor=Luverdense<-
+sport=Futbal, league=1.India, competitor=Aizawl<-
+sport=Futbal, league=1.Singapur, competitor=Tampines<-
+sport=Futbal, league=1.Írsko, competitor=Bray<-
+sport=Futbal, league=1.Litva, competitor=Stumbras Kaunas<-
+sport=Futbal, league=2.Poľsko, competitor=Zabki<-
+sport=Futbal, league=3.Fínsko C, competitor=MuSa<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Fuenlabrada<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Forde<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Socuéllamos<-
+sport=Futbal, league=2.Argentína, competitor=Los Andes<-
+sport=Futbal, league=2.Brazília, competitor=Vila Nova GO<-
+sport=Futbal, league=1.Uruguay, competitor=Rampla<-
+sport=Futbal, league=1.Brazília, competitor=Atl.Mineiro MG<-
+sport=Futbal, league=2.Brazília, competitor=Joinville<-
+sport=Futbal, league=1.Bulharsko, competitor=Lok.Plovdiv<-
+sport=Futbal, league=1.Francúzsko, competitor=St.Etienne<-
+sport=Futbal, league=3.Anglicko, competitor=Bradford<-
+sport=Futbal, league=2.Rakúsko, competitor=A.Lustenau<-
+sport=Futbal, league=2.Španielsko, competitor=Betis<-
+sport=Futbal, league=3.Škótsko, competitor=Peterhead<-
+sport=Futbal, league=4.Anglicko, competitor=Luton<-
+sport=Futbal, league=1.Guatemala, competitor=Universidad SC<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Pontevedra<-
+sport=Futbal, league=2.Rakúsko, competitor=Mattersburg<-
+sport=Futbal, league=1.Kanada, competitor=Serbian WE<-
+sport=Futbal, league=1.Kazachstan, competitor=Atyrau<-
+sport=Futbal, league=2.Belgicko, competitor=OH Leuven<-
+sport=Futbal, league=1.Ukrajina, competitor=Dyn.Kyjev<-
+sport=Futbal, league=1.Arménsko, competitor=Shirak<-
+sport=Futbal, league=2.Nórsko, competitor=Raufoss<-
+sport=Futbal, league=2.Belgicko, competitor=Patro Eisden<-
+sport=Futbal, league=1.Arménsko, competitor=Gandzasar<-
+sport=Futbal, league=3.Francúzsko, competitor=Avranches<-
+sport=Futbal, league=1.Portugalsko, competitor=Académica<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Baerum<-
+sport=Futbal, league=1.Guatemala, competitor=Marquense<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Villarreal B<-
+sport=Futbal, league=2.Nemecko, competitor=Duisburg<-
+sport=Futbal, league=2.Anglicko, competitor=Blackpool<-
+sport=Futbal, league=2.Island, competitor=Bolungarvik<-
+sport=Futbal, league=2.Holandsko, competitor=Emmen<-
+sport=Futbal, league=1.Ukrajina, competitor=Ol.Doneck<-
+sport=Futbal, league=3.Anglicko, competitor=Yeovil<-
+sport=Futbal, league=2.Poľsko, competitor=P.Siedlce<-
+sport=Futbal, league=1.Estónsko, competitor=Tammeka<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Vindbjart<-
+sport=Futbal, league=1.Japonsko, competitor=Sendai<-
+sport=Futbal, league=2.Taliansko, competitor=Carpi<-
+sport=Futbal, league=1.Turecko, competitor=Konya<-
+sport=Futbal, league=1.Poľsko, competitor=Wisla Krakow<-
+sport=Futbal, league=3.Česko, competitor=Písek<-
+sport=Futbal, league=2.Anglicko, competitor=Watford<-
+sport=Futbal, league=4.Anglicko, competitor=Burton<-
+sport=Futbal, league=1.Bulharsko, competitor=CSKA Sofia<-
+sport=Futbal, league=1.Chile, competitor=Nublense<-
+sport=Futbal, league=1.Ekvádor, competitor=Barcelona G.<-
+sport=Futbal, league=1.Malta, competitor=Pembroke<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Le Mont<-
+sport=Futbal, league=1.Island, competitor=Fjolnir Reykjavik<-
+sport=Futbal, league=2.Anglicko, competitor=Norwich<-
+sport=Futbal, league=2.Španielsko, competitor=Numancia<-
+sport=Futbal, league=2.Mexiko, competitor=Leones Negros<-
+sport=Futbal, league=1.Austrália, competitor=Brisbane<-
+sport=Futbal, league=1.Nemecko, competitor=Schalke<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Byasen<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Cultural Leonesa<-
+sport=Futbal, league=2.Argentína, competitor=All Boys<-
+sport=Futbal, league=1.Bolívia, competitor=Univ.Sucre<-
+sport=Futbal, league=1.Čína, competitor=Changchun<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Arenas de Getxo<-
+sport=Futbal, league=1.Rakúsko, competitor=Grödig<-
+sport=Futbal, league=1.Srbsko, competitor=Borac Čačak<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Olot<-
+sport=Futbal, league=1.Lotyšsko, competitor=Riga FC<-
+sport=Futbal, league=2.Turecko, competitor=S.B.Elazig<-
+sport=Futbal, league=5.Anglicko, competitor=Dover<-
+sport=Futbal, league=2.Francúzsko, competitor=Créteil<-
+sport=Futbal, league=1.Rusko, competitor=Groznyj<-
+sport=Futbal, league=2.Island, competitor=Grotta<-
+sport=Futbal, league=2.Brazília, competitor=Ceará CE<-
+sport=Futbal, league=1.J.Kórea, competitor=Incheon<-
+sport=Futbal, league=1.Turecko, competitor=Mersin<-
+sport=Futbal, league=1.Honduras, competitor=Real Sociedad CD<-
+sport=Futbal, league=3.Česko, competitor=Králův Dvůr<-
+sport=Futbal, league=1.Španielsko, competitor=Atl.Madrid<-
+sport=Futbal, league=2.Portugalsko, competitor=Sporting B<-
+sport=Futbal, league=2.Nemecko, competitor=Nürnberg<-
+sport=Futbal, league=5.Anglicko, competitor=Welling<-
+sport=Futbal, league=3.Taliansko A, competitor=Cittadella<-
+sport=Futbal, league=2.Island, competitor=Grindavík<-
+sport=Futbal, league=1.Bahrajn, competitor=Al Hala<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Lörenskog<-
+sport=Futbal, league=2.Nemecko, competitor=Un.Berlin<-
+sport=Futbal, league=1.Bulharsko, competitor=Loveč<-
+sport=Futbal, league=2.Japonsko, competitor=Oita<-
+sport=Futbal, league=1.Malta, competitor=FC Valletta<-
+sport=Futbal, league=1.Azerbajdžan, competitor=Inter Baku<-
+sport=Futbal, league=2.Chile, competitor=Barnechea<-
+sport=Futbal, league=2.Rusko, competitor=Dyn.St.Peterburg<-
+sport=Futbal, league=1.Malta, competitor=Floriana<-
+sport=Futbal, league=1.Srbsko, competitor=Lučani<-
+sport=Futbal, league=3.Taliansko A, competitor=Cuneo<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Cliftonville<-
+sport=Futbal, league=2.Holandsko, competitor=Sittard<-
+sport=Futbal, league=2.Argentína, competitor=Nueva Chicago<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Sabadell<-
+sport=Futbal, league=1.Čína, competitor=Sh.Shenhua<-
+sport=Futbal, league=3.Anglicko, competitor=Shrewsbury<-
+sport=Futbal, league=1.Nemecko, competitor=Hamburg<-
+sport=Futbal, league=Fortuna liga, competitor=Trnava<-
+sport=Futbal, league=2.Rusko, competitor=Vol.N.Novgorod<-
+sport=Futbal, league=2.Chile, competitor=Copiapó<-
+sport=Futbal, league=1.Anglicko, competitor=Everton<-
+sport=Futbal, league=2.Portugalsko, competitor=FC Porto B<-
+sport=Futbal, league=1.Taliansko, competitor=Palermo<-
+sport=Futbal, league=2.Španielsko, competitor=Alavés<-
+sport=Futbal, league=1.Nórsko, competitor=Lilleström<-
+sport=Futbal, league=2.Anglicko, competitor=Leeds<-
+sport=Futbal, league=1.Nórsko, competitor=Sarpsborg<-
+sport=Futbal, league=2.Turecko, competitor=Malatya<-
+sport=Futbal, league=1.Rusko, competitor=Machačkala<-
+sport=Futbal, league=3.Anglicko, competitor=Bristol City<-
+sport=Futbal, league=1.Malta, competitor=Mosta<-
+sport=Futbal, league=Fortuna liga, competitor=Michalovce<-
+sport=Futbal, league=3.Taliansko A, competitor=Pordenone<-
+sport=Futbal, league=1.Malta, competitor=Sliema Wand.<-
+sport=Futbal, league=2.Rusko, competitor=Kub.Krasnodar<-
+sport=Futbal, league=3.Taliansko C, competitor=Ischia<-
+sport=Futbal, league=3.Francúzsko, competitor=Colomiers<-
+sport=Futbal, league=2.Česko, competitor=Opava<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Almeria B<-
+sport=Futbal, league=2.Belgicko, competitor=Virton<-
+sport=Futbal, league=2.Francúzsko, competitor=Valenciennes<-
+sport=Futbal, league=3.Česko, competitor=Čáslav<-
+sport=Futbal, league=1.Japonsko, competitor=Kawasaki<-
+sport=Futbal, league=1.Škótsko, competitor=Partick<-
+sport=Futbal, league=2.Island, competitor=Tróttur Reyk.<-
+sport=Futbal, league=1.Kostarika, competitor=M.Liberia<-
+sport=Futbal, league=2.Argentína, competitor=Chacarita<-
+sport=Futbal, league=1.Argentína, competitor=Nueva Chicago<-
+sport=Futbal, league=1.Kolumbia, competitor=Uniautónoma<-
+sport=Futbal, league=1.Bolívia, competitor=The Strongest<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Ullern<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Jumilla<-
+sport=Futbal, league=3.Francúzsko, competitor=Le Poire<-
+sport=Futbal, league=2.Taliansko, competitor=Bologna<-
+sport=Futbal, league=2.Turecko, competitor=Samsun<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Institute<-
+sport=Futbal, league=1.Brazília, competitor=Atl.Mineiro<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Kjelsas<-
+sport=Futbal, league=4.Anglicko, competitor=Barnet<-
+sport=Futbal, league=1.Bielorusko, competitor=Gr.Mikashevichi<-
+sport=Futbal, league=1.USA, competitor=Philadelphia<-
+sport=Futbal, league=3.Fínsko B, competitor=SalPa Salo<-
+sport=Futbal, league=1.Švajčiarsko, competitor=Grasshopper<-
+sport=Futbal, league=3.Taliansko B, competitor=Pistoiese<-
+sport=Futbal, league=3.Nemecko, competitor=Aalen<-
+sport=Futbal, league=1.Egypt, competitor=Al Masry<-
+sport=Futbal, league=1.J.Afrika, competitor=Mamelodi<-
+sport=Futbal, league=3.Taliansko A, competitor=Albinoleffe<-
+sport=Futbal, league=1.Uruguay, competitor=Fénix<-
+sport=Futbal, league=2.Argentína, competitor=Atl.Parana<-
+sport=Futbal, league=1.Maďarsko, competitor=Újpest<-
+sport=Futbal, league=3.Fínsko A, competitor=Lahti FC (Am.)<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=S.Sebastian B<-
+sport=Futbal, league=1.Bielorusko, competitor=D.Mogilev<-
+sport=Futbal, league=3.Fínsko-východ, competitor=Futura<-
+sport=Futbal, league=1.Grécko, competitor=Platanias<-
+sport=Futbal, league=3.Fínsko-sever, competitor=AC Kajaani<-
+sport=Futbal, league=2.Poľsko, competitor=W.Pulawy<-
+sport=Futbal, league=1.Holandsko, competitor=Tilburg<-
+sport=Futbal, league=1.Izrael, competitor=M.Netanya<-
+sport=Futbal, league=1.Poľsko, competitor=Szczecin<-
+sport=Futbal, league=1.Rusko, competitor=Spartak M.<-
+sport=Futbal, league=1.Srbsko, competitor=Part.Beograd<-
+sport=Futbal, league=1.Chile, competitor=Antofagasta<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Komárno<-
+sport=Futbal, league=1.Kolumbia, competitor=Alianza Petrolera<-
+sport=Futbal, league=1.Írsko, competitor=Cork C.<-
+sport=Futbal, league=2.Japonsko, competitor=C.Osaka<-
+sport=Futbal, league=2.Argentína, competitor=Almagro<-
+sport=Futbal, league=1.Dánsko, competitor=Randers<-
+sport=Futbal, league=1.Bolívia, competitor=Or.Petrolero<-
+sport=Futbal, league=1.Belgicko, competitor=Gent<-
+sport=Futbal, league=1.Lotyšsko, competitor=Skonto Riga<-
+sport=Futbal, league=1.Mexiko, competitor=Veracruz<-
+sport=Futbal, league=1.SAE, competitor=Al Wasl<-
+sport=Futbal, league=2.Rusko, competitor=Čelnyj<-
+sport=Futbal, league=1.Chorvátsko, competitor=Osijek<-
+sport=Futbal, league=1.Izrael, competitor=Hap.Haifa<-
+sport=Futbal, league=1.Bulharsko, competitor=Sl.Sofia<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Neuchatel<-
+sport=Futbal, league=2.Japonsko, competitor=FC Yokohama<-
+sport=Futbal, league=4.Anglicko, competitor=Oxford<-
+sport=Futbal, league=2.Rusko, competitor=Volgar<-
+sport=Futbal, league=2.Belgicko, competitor=KRC Mechelen<-
+sport=Futbal, league=1.Švédsko, competitor=Örebro<-
+sport=Futbal, league=2.Rusko, competitor=Torp.Armavir<-
+sport=Futbal, league=1.Čína, competitor=Guangzhou RF<-
+sport=Futbal, league=2.Nemecko, competitor=Karlsruhe<-
+sport=Futbal, league=1.Portugalsko, competitor=Benfica<-
+sport=Futbal, league=1.Holandsko, competitor=Eindhoven<-
+sport=Futbal, league=1.Škótsko, competitor=Rangers<-
+sport=Futbal, league=1.Argentína, competitor=V.Sarsfield<-
+sport=Futbal, league=3.Taliansko C, competitor=Casertana<-
+sport=Futbal, league=3.Česko, competitor=Kolín<-
+sport=Futbal, league=2.Španielsko, competitor=Leganes<-
+sport=Futbal, league=1.Panama, competitor=Tauro<-
+sport=Futbal, league=1.Argentína, competitor=San Lorenzo<-
+sport=Futbal, league=2.Anglicko, competitor=Charlton<-
+sport=Futbal, league=1.Chile, competitor=U.Chile<-
+sport=Futbal, league=2.Brazília, competitor=Criciúma<-
+sport=Futbal, league=1.Brazília, competitor=Goiás<-
+sport=Futbal, league=3.Nemecko, competitor=Chemnitz<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Strindheim<-
+sport=Futbal, league=2.Island, competitor=Leik.Reykjavik<-
+sport=Futbal, league=4.Anglicko, competitor=Bury<-
+sport=Futbal, league=2.Fínsko, competitor=Grankulla IFK<-
+sport=Futbal, league=1.Turecko, competitor=Bursa<-
+sport=Futbal, league=2.Anglicko, competitor=Brentford<-
+sport=Futbal, league=3.Fínsko C, competitor=Närpes<-
+sport=Futbal, league=1.Nórsko, competitor=Trondheim<-
+sport=Futbal, league=2.Dánsko, competitor=Vendsyssel<-
+sport=Futbal, league=3.Taliansko C, competitor=Melfi<-
+sport=Futbal, league=1.Taliansko, competitor=Fiorentina<-
+sport=Futbal, league=3.Taliansko C, competitor=Nuova Cosenza<-
+sport=Futbal, league=2.Nórsko, competitor=Kristiansund<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Aalesund B<-
+sport=Futbal, league=2.Japonsko, competitor=Kumamoto<-
+sport=Futbal, league=1.Brazília, competitor=Gremio RS<-
+sport=Futbal, league=1.Chile, competitor=U.Concepción<-
+sport=Futbal, league=1.Grécko, competitor=PAOK<-
+sport=Futbal, league=2.Turecko, competitor=Adana<-
+sport=Futbal, league=2.Dánsko, competitor=AB Kodaň<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Floro<-
+sport=Futbal, league=1.Chorvátsko, competitor=Din.Zagreb<-
+sport=Futbal, league=1.Nemecko, competitor=M gladbach<-
+sport=Futbal, league=1.Bolívia, competitor=S.José Oruro<-
+sport=Futbal, league=1.Čína, competitor=Shijiazhuang<-
+sport=Futbal, league=1.Litva, competitor=Trakai<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Trnava B<-
+sport=Futbal, league=1.Cyprus, competitor=Salamina<-
+sport=Futbal, league=2.Slovensko-východ, competitor=Sp.N.Ves<-
+sport=Futbal, league=1.SAE, competitor=Ajman<-
+sport=Futbal, league=1.Ekvádor, competitor=Delfin<-
+sport=Futbal, league=1.Čína, competitor=Sh.Shenxin<-
+sport=Futbal, league=1.Fínsko, competitor=PS Kemi<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Ol.Sarajevo<-
+sport=Futbal, league=1.Cyprus, competitor=Aradippou<-
+sport=Futbal, league=2.Škótsko, competitor=Raith<-
+sport=Futbal, league=2.Belgicko, competitor=Eupen<-
+sport=Futbal, league=1.Island, competitor=Fylkir<-
+sport=Futbal, league=Fortuna liga, competitor=Prešov<-
+sport=Futbal, league=2.Taliansko, competitor=Spezia<-
+sport=Futbal, league=1.Dánsko, competitor=Nordsjael.<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Amorebieta<-
+sport=Futbal, league=1.Kostarika, competitor=Universidad<-
+sport=Futbal, league=1.Turecko, competitor=Sivas<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Oddevold<-
+sport=Futbal, league=2.USA, competitor=Atlanta<-
+sport=Futbal, league=4.Anglicko, competitor=Stevenage<-
+sport=Futbal, league=2.Španielsko, competitor=Gim.Tarragona<-
+sport=Futbal, league=1.Kolumbia, competitor=Aguilas Doradas<-
+sport=Futbal, league=1.Mexiko, competitor=Chivas<-
+sport=Futbal, league=1.Venezuela, competitor=Portuguesa<-
+sport=Futbal, league=1.Litva, competitor=Atl.Klaipeda<-
+sport=Futbal, league=1.Srbsko, competitor=Radnički Kr.<-
+sport=Futbal, league=2.Argentína, competitor=Juv.Un.San Luis<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Enskede<-
+sport=Futbal, league=1.Grécko, competitor=Xanthi<-
+sport=Futbal, league=2.Poľsko, competitor=Z.Bydgoszcz<-
+sport=Futbal, league=1.Argentína, competitor=Olimpo<-
+sport=Futbal, league=2.Francúzsko, competitor=Angers<-
+sport=Futbal, league=1.Argentína, competitor=Colón<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Lysekloster<-
+sport=Futbal, league=1.Peru, competitor=Universitario<-
+sport=Futbal, league=3.Škótsko, competitor=Dunfermline<-
+sport=Futbal, league=3.Fínsko A, competitor=Kultsu Joutseno<-
+sport=Futbal, league=3.Anglicko, competitor=Milton K.<-
+sport=Futbal, league=3.Taliansko B, competitor=Teramo<-
+sport=Futbal, league=3.Taliansko C, competitor=Fidelis Andria<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Portugalete<-
+sport=Futbal, league=1.Bielorusko, competitor=Din.Minsk<-
+sport=Futbal, league=1.Grécko, competitor=Ergotelis<-
+sport=Futbal, league=3.Taliansko A, competitor=Cremonese<-
+sport=Futbal, league=1.Kazachstan, competitor=Tobol<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Nasr<-
+sport=Futbal, league=1.Katar, competitor=Al Shahaniya<-
+sport=Futbal, league=5.Anglicko, competitor=Aldershot<-
+sport=Futbal, league=1.Čína, competitor=Shanghai Shenhua<-
+sport=Futbal, league=1.USA, competitor=Columbus<-
+sport=Futbal, league=2.Švédsko, competitor=Syrianska<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Örgryte<-
+sport=Futbal, league=1.Maďarsko, competitor=Györ<-
+sport=Futbal, league=2.Izrael, competitor=Hap.Afula<-
+sport=Futbal, league=2.Brazília, competitor=Sampaio Correa MA<-
+sport=Futbal, league=2.Island, competitor=Thor Akureyri<-
+sport=Futbal, league=2.Taliansko, competitor=Modena<-
+sport=Futbal, league=3.Fínsko A, competitor=Mikkeli<-
+sport=Futbal, league=2.Rakúsko, competitor=Liefering<-
+sport=Futbal, league=2.Španielsko, competitor=Huelva<-
+sport=Futbal, league=2.Poľsko, competitor=Z.Sosnowiec<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=R.Murcia<-
+sport=Futbal, league=2.Izrael, competitor=Hap.Nazareth Illit<-
+sport=Futbal, league=2.Francúzsko, competitor=Tours<-
+sport=Futbal, league=1.Maďarsko, competitor=Dunaujvaros<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Strindheim<-
+sport=Futbal, league=2.Nórsko, competitor=Levanger<-
+sport=Futbal, league=2.Anglicko, competitor=Blackburn<-
+sport=Futbal, league=3.Anglicko, competitor=Rochdale<-
+sport=Futbal, league=1.Bahrajn, competitor=East Riffa<-
+sport=Futbal, league=2.Japonsko, competitor=Shimizu<-
+sport=Futbal, league=3.Anglicko, competitor=Peterborough<-
+sport=Futbal, league=1.Česko, competitor=Hr.Králové<-
+sport=Futbal, league=1.Maďarsko, competitor=Honvéd<-
+sport=Futbal, league=1.Bulharsko, competitor=Lok.G.Orjahovica<-
+sport=Futbal, league=1.Venezuela, competitor=Urena<-
+sport=Futbal, league=1.Cyprus, competitor=Ayia Napa<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Glenavon<-
+sport=Futbal, league=5.Anglicko, competitor=Cheltenham<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Senja<-
+sport=Futbal, league=1.Mexiko, competitor=Necaxa<-
+sport=Futbal, league=2.Rakúsko, competitor=Horn<-
+sport=Futbal, league=Fortuna liga, competitor=Žilina<-
+sport=Futbal, league=3.Fínsko C, competitor=YPA<-
+sport=Futbal, league=1.Turecko, competitor=Besiktas<-
+sport=Futbal, league=1.Egypt, competitor=Smouha<-
+sport=Futbal, league=2.Brazília, competitor=CRB AL<-
+sport=Futbal, league=2.Francúzsko, competitor=Arles<-
+sport=Futbal, league=1.Kostarika, competitor=Guápiles<-
+sport=Futbal, league=1.Škótsko, competitor=Aberdeen<-
+sport=Futbal, league=1.Nórsko, competitor=Mjondalen<-
+sport=Futbal, league=Fortuna liga, competitor=Dun.Streda<-
+sport=Futbal, league=1.Portugalsko, competitor=Setubal<-
+sport=Futbal, league=1.Argentína, competitor=Racing<-
+sport=Futbal, league=1.Peru, competitor=Real Garcilaso<-
+sport=Futbal, league=1.Česko, competitor=Ml.Boleslav<-
+sport=Futbal, league=1.Azerbajdžan, competitor=Neftči Baku<-
+sport=Futbal, league=2.Škótsko, competitor=Falkirk<-
+sport=Futbal, league=1.Mexiko, competitor=Monterrey<-
+sport=Futbal, league=2.Česko, competitor=Č.Budejovice<-
+sport=Futbal, league=1.Uruguay, competitor=River Plate<-
+sport=Futbal, league=2.Taliansko, competitor=Lanciano<-
+sport=Futbal, league=2.Turecko, competitor=Erciyes<-
+sport=Futbal, league=1.Srbsko, competitor=Novi Pazar<-
+sport=Futbal, league=2.Belgicko, competitor=KVW Zaventem<-
+sport=Futbal, league=1.Izrael, competitor=Mac.Petah Tikva<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Ham Kam<-
+sport=Futbal, league=1.Japonsko, competitor=Fukuoka<-
+sport=Futbal, league=2.Nórsko, competitor=Sogndal<-
+sport=Futbal, league=1.Singapur, competitor=Balestier Khalsa<-
+sport=Futbal, league=2.Rusko, competitor=Samara<-
+sport=Futbal, league=2.Dánsko, competitor=Horsens<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Kristianstad<-
+sport=Futbal, league=2.Španielsko, competitor=Ponferradina<-
+sport=Futbal, league=2.Portugalsko, competitor=Freamunde<-
+sport=Futbal, league=2.Švédsko, competitor=Varberg<-
+sport=Futbal, league=2.Francúzsko, competitor=Bourg<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Izarra<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Freiburg<-
+sport=Futbal, league=1.Francúzsko, competitor=Lens<-
+sport=Futbal, league=1.Japonsko, competitor=Vissel Kobe<-
+sport=Futbal, league=1.Dánsko, competitor=Viborg<-
+sport=Futbal, league=1.Maďarsko, competitor=Debrecen<-
+sport=Futbal, league=1.Kanada, competitor=Brantford G.<-
+sport=Futbal, league=4.Anglicko, competitor=Mansfield<-
+sport=Futbal, league=1.Srbsko, competitor=Čuk.Beograd<-
+sport=Futbal, league=1.Paraguay, competitor=General Díaz<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=K.Halden<-
+sport=Futbal, league=2.Rakúsko, competitor=Innsbruck<-
+sport=Futbal, league=1.Holandsko, competitor=Cambuur<-
+sport=Futbal, league=1.Francúzsko, competitor=Guingamp<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Ballinamallard<-
+sport=Futbal, league=1.Bosna/Herc., competitor=NK Vitez<-
+sport=Futbal, league=2.Rakúsko, competitor=Team für Wien<-
+sport=Futbal, league=3.Fínsko-východ, competitor=Sudet<-
+sport=Futbal, league=2.Argentína, competitor=Douglas Haig<-
+sport=Futbal, league=Fortuna liga, competitor=Myjava<-
+sport=Futbal, league=1.Bulharsko, competitor=Haskovo<-
+sport=Futbal, league=2.Rusko, competitor=Nalčik<-
+sport=Futbal, league=3.Fínsko B, competitor=Viikingit Helsinki<-
+sport=Futbal, league=2.USA, competitor=NY Cosmos<-
+sport=Futbal, league=1.Island, competitor=Stjarnan<-
+sport=Futbal, league=1.Škótsko, competitor=Hamilton<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Husqvarna<-
+sport=Futbal, league=2.Brazília, competitor=Avai Florianopolis<-
+sport=Futbal, league=1.Španielsko, competitor=FC Sevilla<-
+sport=Futbal, league=1.Portugalsko, competitor=Tondela<-
+sport=Futbal, league=3.Fínsko A, competitor=Järvenpää<-
+sport=Futbal, league=1.Austrália, competitor=Adelaide Utd.<-
+sport=Futbal, league=1.Belgicko, competitor=St.Liege<-
+sport=Futbal, league=2.Anglicko, competitor=Q.P.R.<-
+sport=Futbal, league=1.Estónsko, competitor=Kalev Sillamae<-
+sport=Futbal, league=2.Chile, competitor=Cobreloa<-
+sport=Futbal, league=1.Čína, competitor=Guangzhou Ever.<-
+sport=Futbal, league=1.Izrael, competitor=H.K.Saba<-
+sport=Futbal, league=2.Rakúsko, competitor=LASK Linz<-
+sport=Futbal, league=2.Rusko, competitor=Tomsk<-
+sport=Futbal, league=1.Venezuela, competitor=Dep.La Guaira<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Motala<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Neded<-
+sport=Futbal, league=2.Anglicko, competitor=Wigan<-
+sport=Futbal, league=3.Česko, competitor=Štěchovice<-
+sport=Futbal, league=2.Taliansko, competitor=Perugia<-
+sport=Futbal, league=1.Brazília, competitor=Sp.Recife PE<-
+sport=Futbal, league=1.Bulharsko, competitor=Vereya St.Zagora<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Horná Nitra<-
+sport=Futbal, league=1.Peru, competitor=Sp.Cristal<-
+sport=Futbal, league=1.Poľsko, competitor=Bialystok<-
+sport=Futbal, league=1.Chile, competitor=Dep.Iquique<-
+sport=Futbal, league=1.Estónsko, competitor=Flora Tallinn<-
+sport=Futbal, league=2.Rakúsko, competitor=Wattens<-
+sport=Futbal, league=1.Brazília, competitor=Internacional<-
+sport=Futbal, league=2.Portugalsko, competitor=Viseu<-
+sport=Futbal, league=2.Brazília, competitor=Joinville SC<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Skeid<-
+sport=Futbal, league=1.Fínsko, competitor=Seinäjoen<-
+sport=Futbal, league=1.India, competitor=East Bengal<-
+sport=Futbal, league=2.Mexiko, competitor=Loros Universidad<-
+sport=Futbal, league=2.Turecko, competitor=Gaziantep.BB<-
+sport=Futbal, league=2.Japonsko, competitor=Iwata<-
+sport=Futbal, league=2.Brazília, competitor=Oeste<-
+sport=Futbal, league=1.Bulharsko, competitor=St.Zagora<-
+sport=Futbal, league=1.USA, competitor=Washington<-
+sport=Futbal, league=1.Kazachstan, competitor=Akzhayik<-
+sport=Futbal, league=1.Holandsko, competitor=Alkmaar<-
+sport=Futbal, league=4.Anglicko, competitor=Morecambe<-
+sport=Futbal, league=1.Guatemala, competitor=Antigua GFC<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Celta Vigo B<-
+sport=Futbal, league=1.SAE, competitor=Dibba Al Fujairah<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Cartagena<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Púchov<-
+sport=Futbal, league=1.Belgicko, competitor=Anderlecht<-
+sport=Futbal, league=2.Japonsko, competitor=Kyoto<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Cornella<-
+sport=Futbal, league=1.Cyprus, competitor=AEK Larnaca<-
+sport=Futbal, league=1.Uruguay, competitor=Rac.Montevideo<-
+sport=Futbal, league=Fortuna liga, competitor=Podbrezová<-
+sport=Futbal, league=1.Bolívia, competitor=Nac.Potosi<-
+sport=Futbal, league=1.Poľsko, competitor=Lubin<-
+sport=Futbal, league=2.Dánsko, competitor=Vejle<-
+sport=Futbal, league=1.Anglicko, competitor=W.B.A.<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Finnsnes<-
+sport=Futbal, league=2.Island, competitor=Leik.Faskrudsfjordur<-
+sport=Futbal, league=1.Ekvádor, competitor=LDU Quito<-
+sport=Futbal, league=2.Španielsko, competitor=Huesca<-
+sport=Futbal, league=2.Švédsko, competitor=Halmstad<-
+sport=Futbal, league=1.Španielsko, competitor=La Coruňa<-
+sport=Futbal, league=2.Rusko, competitor=Kh.Dzerzhinsk<-
+sport=Futbal, league=1.Izrael, competitor=Bn.Sakhnin<-
+sport=Futbal, league=2.Portugalsko, competitor=Portimao<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Celik Zenica<-
+sport=Futbal, league=1.Anglicko, competitor=Swansea<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Hönefoss<-
+sport=Futbal, league=3.Taliansko C, competitor=Lecce<-
+sport=Futbal, league=1.Česko, competitor=Dukla<-
+sport=Futbal, league=1.Taliansko, competitor=Bologna<-
+sport=Futbal, league=2.Argentína, competitor=Juv.Un.Gualeguaychu<-
+sport=Futbal, league=1.Japonsko, competitor=Niigata<-
+sport=Futbal, league=2.Holandsko, competitor=Waalwijk<-
+sport=Futbal, league=1.Guatemala, competitor=Petapa<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Topvar Topolčany<-
+sport=Futbal, league=1.Škótsko, competitor=St.Johnstone<-
+sport=Futbal, league=1.Peru, competitor=Leon Huanuco<-
+sport=Futbal, league=2.Anglicko, competitor=Rotherham<-
+sport=Futbal, league=2.Mexiko, competitor=Venados<-
+sport=Futbal, league=1.Portugalsko, competitor=Braga<-
+sport=Futbal, league=3.Fínsko-západ, competitor=Grankulla IFK<-
+sport=Futbal, league=2.Fínsko, competitor=PS Kemi<-
+sport=Futbal, league=3.Taliansko A, competitor=FeralpiSalo<-
+sport=Futbal, league=2.Taliansko, competitor=Crotone<-
+sport=Futbal, league=2.Taliansko, competitor=Ternana<-
+sport=Futbal, league=1.Egypt, competitor=El Daklyeh<-
+sport=Futbal, league=1.Taliansko, competitor=Frosinone<-
+sport=Futbal, league=1.Bielorusko, competitor=Bobrujsk<-
+sport=Futbal, league=2.Francúzsko, competitor=Brest<-
+sport=Futbal, league=1.Bahrajn, competitor=Al Muharraq<-
+sport=Futbal, league=4.Anglicko, competitor=York<-
+sport=Futbal, league=2.Holandsko, competitor=Sp.Rotterdam<-
+sport=Futbal, league=1.Poľsko, competitor=Zabrze<-
+sport=Futbal, league=1.Estónsko, competitor=Infonet Tallinn<-
+sport=Futbal, league=1.Kolumbia, competitor=Cúcuta<-
+sport=Futbal, league=1.Čína, competitor=Shanghai East A<-
+sport=Futbal, league=1.Turecko, competitor=Balikesir<-
+sport=Futbal, league=3.Fínsko C, competitor=OPS Oulu<-
+sport=Futbal, league=3.Nemecko, competitor=Holstein Kiel<-
+sport=Futbal, league=2.Poľsko, competitor=Kluczbork<-
+sport=Futbal, league=1.Maďarsko, competitor=Diósgyör<-
+sport=Futbal, league=2.Portugalsko, competitor=Guimaraes B<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Velež Mostar<-
+sport=Futbal, league=2.Holandsko, competitor=Nijmegen<-
+sport=Futbal, league=1.Nemecko, competitor=Eint.Frankfurt<-
+sport=Futbal, league=5.Anglicko, competitor=Boreham<-
+sport=Futbal, league=1.Bulharsko, competitor=Nef.Burgas<-
+sport=Futbal, league=1.Malta, competitor=St.Andrews<-
+sport=Futbal, league=1.J.Kórea, competitor=Jeju<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Sprint Jeloy<-
+sport=Futbal, league=1.J.Kórea, competitor=Jeonbuk<-
+sport=Futbal, league=3.Fínsko-juh, competitor=FCV<-
+sport=Futbal, league=1.Izrael, competitor=H.P.Tikva<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Elverum<-
+sport=Futbal, league=3.Škótsko, competitor=Ayr<-
+sport=Futbal, league=5.Anglicko, competitor=Woking<-
+sport=Futbal, league=1.Peru, competitor=Al.Lima<-
+sport=Futbal, league=2.Rakúsko, competitor=St.Polten<-
+sport=Futbal, league=2.Argentína, competitor=Ind.Rivadavia<-
+sport=Futbal, league=2.Nórsko, competitor=Mjondalen<-
+sport=Futbal, league=3.Fínsko A, competitor=Gnist.Helsinki<-
+sport=Futbal, league=1.Bulharsko, competitor=Čer.Varna<-
+sport=Futbal, league=2.Írsko, competitor=Cabinteely Dublin<-
+sport=Futbal, league=3.Fínsko-východ, competitor=Kultsu Joutseno<-
+sport=Futbal, league=1.Arménsko, competitor=Alashkert<-
+sport=Futbal, league=2.Brazília, competitor=Bragantino SP<-
+sport=Futbal, league=2.Rusko, competitor=Vladivostok<-
+sport=Futbal, league=1.Fínsko, competitor=HJK Helsinki<-
+sport=Futbal, league=2.Taliansko, competitor=Cagliari<-
+sport=Futbal, league=1.Rakúsko, competitor=Sturm<-
+sport=Futbal, league=4.Anglicko, competitor=Leyton<-
+sport=Futbal, league=1.Cyprus, competitor=A.Famagusta<-
+sport=Futbal, league=1.Rumunsko, competitor=U.Craiova<-
+sport=Futbal, league=1.Bahrajn, competitor=Bahrain SC<-
+sport=Futbal, league=2.Česko, competitor=Karviná<-
+sport=Futbal, league=1.Česko-ženy, competitor=Sparta<-
+sport=Futbal, league=1.Maďarsko, competitor=Haladás<-
+sport=Futbal, league=3.Fínsko-západ, competitor=Närpes<-
+sport=Futbal, league=2.Mexiko, competitor=Atlante<-
+sport=Futbal, league=1.Katar, competitor=Al Sailiya<-
+sport=Futbal, league=1.Kanada, competitor=York RS<-
+sport=Futbal, league=1.Egypt, competitor=Haras El Hodood<-
+sport=Futbal, league=2.Nórsko, competitor=Ranheim<-
+sport=Futbal, league=2.Izrael, competitor=Hap.Ramat HaSharon<-
+sport=Futbal, league=3.Anglicko, competitor=Scunthorpe<-
+sport=Futbal, league=2.Taliansko, competitor=Cittadella<-
+sport=Futbal, league=1.Katar, competitor=Al Jaish<-
+sport=Futbal, league=2.USA, competitor=Rayo Oklahoma<-
+sport=Futbal, league=2.Chile, competitor=Magallanes<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Ebro<-
+sport=Futbal, league=5.Anglicko, competitor=Southport<-
+sport=Futbal, league=1.Francúzsko, competitor=Bordeaux<-
+sport=Futbal, league=2.Portugalsko, competitor=Trofense<-
+sport=Futbal, league=1.Ekvádor, competitor=Emelec<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Palárikovo<-
+sport=Futbal, league=2.Fínsko, competitor=VIFK<-
+sport=Futbal, league=1.Írsko, competitor=Finn Harps<-
+sport=Futbal, league=3.Fínsko B, competitor=Kiffen<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Marbella<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Grorud<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Ahli<-
+sport=Futbal, league=1.Kolumbia, competitor=Once Caldas<-
+sport=Futbal, league=2.Dánsko, competitor=Silkeborg<-
+sport=Futbal, league=1.N.Zéland, competitor=Hawkes Bay U.<-
+sport=Futbal, league=1.Nórsko, competitor=Tromsö<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=La Roda<-
+sport=Futbal, league=2.Holandsko, competitor=Jong Ajax<-
+sport=Futbal, league=2.Rusko, competitor=Gaz.Orenburg<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Frigg<-
+sport=Futbal, league=3.Taliansko B, competitor=San Marino<-
+sport=Futbal, league=4.Anglicko, competitor=Yeovil<-
+sport=Futbal, league=3.Česko, competitor=Žižkov<-
+sport=Futbal, league=1.Maďarsko, competitor=MTK<-
+sport=Futbal, league=1.Austrália, competitor=Wellington Ph.<-
+sport=Futbal, league=1.Japonsko, competitor=Kobe<-
+sport=Futbal, league=1.Rumunsko, competitor=Iasi<-
+sport=Futbal, league=1.Venezuela, competitor=Mineros<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Dungannon<-
+sport=Futbal, league=3.Taliansko B, competitor=Pro Piacenza<-
+sport=Futbal, league=1.Uruguay, competitor=Danubio<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Leverkusen<-
+sport=Futbal, league=2.Brazília, competitor=Brasil Pelotas RS<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Borac B.Luka<-
+sport=Futbal, league=2.Fínsko, competitor=Kokkola<-
+sport=Futbal, league=1.Nemecko, competitor=Leverkusen<-
+sport=Futbal, league=1.Čína, competitor=Shijiazhuang Ever Bri<-
+sport=Futbal, league=1.J.Afrika, competitor=Moroka<-
+sport=Futbal, league=1.Rumunsko, competitor=Targu Mures<-
+sport=Futbal, league=1.Venezuela, competitor=Carabobo<-
+sport=Futbal, league=3.Francúzsko, competitor=Red Star<-
+sport=Futbal, league=1.Singapur, competitor=Harimau Muda II<-
+sport=Futbal, league=1.Fínsko, competitor=Mariehamn<-
+sport=Futbal, league=1.Francúzsko, competitor=Angers<-
+sport=Futbal, league=2.Chile, competitor=Curico<-
+sport=Futbal, league=1.Brazília, competitor=Coritiba PR<-
+sport=Futbal, league=1.Ekvádor, competitor=Univ.Quito<-
+sport=Futbal, league=1.Brazília, competitor=Botafogo RJ<-
+sport=Futbal, league=2.Izrael, competitor=Hap.Ramat Gan<-
+sport=Futbal, league=2.Mexiko, competitor=Necaxa<-
+sport=Futbal, league=2.Belgicko, competitor=WS Bruxelles<-
+sport=Futbal, league=2.Brazília, competitor=Náut.Recife<-
+sport=Futbal, league=2.Holandsko, competitor=Den Bosch<-
+sport=Futbal, league=2.Taliansko, competitor=Trapani<-
+sport=Futbal, league=3.Anglicko, competitor=Southend<-
+sport=Futbal, league=2.Brazília, competitor=Icasa<-
+sport=Futbal, league=1.Maďarsko, competitor=Békéscsaba<-
+sport=Futbal, league=1.Chile, competitor=Palestino<-
+sport=Futbal, league=2.Švédsko, competitor=Mjällby<-
+sport=Futbal, league=1.Venezuela, competitor=Táchira<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Oppsal<-
+sport=Futbal, league=1.Holandsko, competitor=Enschede<-
+sport=Futbal, league=4.Škótsko, competitor=Montrose<-
+sport=Futbal, league=2.Nórsko, competitor=Br.Bergen<-
+sport=Futbal, league=2.Taliansko, competitor=Brescia<-
+sport=Futbal, league=3.Taliansko C, competitor=Juve Stabia<-
+sport=Futbal, league=1.Brazília, competitor=Santos SP<-
+sport=Futbal, league=1.Francúzsko, competitor=Marseille<-
+sport=Futbal, league=1.Nemecko, competitor=Koln<-
+sport=Futbal, league=1.Nemecko, competitor=Wolfsburg<-
+sport=Futbal, league=3.Taliansko C, competitor=Lupa Castelli<-
+sport=Futbal, league=1.Ekvádor, competitor=Barcelona SC<-
+sport=Futbal, league=2.Rakúsko, competitor=Wr.Neustad<-
+sport=Futbal, league=2.Turecko, competitor=Osmanli<-
+sport=Futbal, league=1.Španielsko, competitor=Valencia<-
+sport=Futbal, league=2.Argentína, competitor=Crucero<-
+sport=Futbal, league=3.Nemecko, competitor=Würzburg<-
+sport=Futbal, league=1.Sev.Írsko, competitor=Linfield<-
+sport=Futbal, league=1.Guatemala, competitor=Suchitepequez<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Huddinge<-
+sport=Futbal, league=1.Island, competitor=Vikingur Olaf.<-
+sport=Futbal, league=1.Španielsko, competitor=Granada<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Donn<-
+sport=Futbal, league=1.Španielsko, competitor=Villarreal<-
+sport=Futbal, league=3.Fínsko-juh, competitor=TPV<-
+sport=Futbal, league=1.Česko, competitor=Brno<-
+sport=Futbal, league=1.Peru, competitor=Def.La Bocana<-
+sport=Futbal, league=3.Nemecko, competitor=Mainz am.<-
+sport=Futbal, league=1.Španielsko, competitor=Vallecano<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Eskilsminne<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=UCAM Murcia<-
+sport=Futbal, league=1.Mexiko, competitor=U.N.A.M.<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Mjällby<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Holmen<-
+sport=Futbal, league=2.Fínsko, competitor=FC Jazz<-
+sport=Futbal, league=1.Poľsko, competitor=Chorzow<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Stjordals Blink<-
+sport=Futbal, league=1.Bosna/Herc., competitor=FK Sarajevo<-
+sport=Futbal, league=1.Bielorusko, competitor=Grodno<-
+sport=Futbal, league=Fortuna liga, competitor=Zl.Moravce<-
+sport=Futbal, league=1.J.Kórea, competitor=Gwangju FC<-
+sport=Futbal, league=1.India, competitor=Mohun Bagan<-
+sport=Futbal, league=3.Fínsko-sever, competitor=KPV Kokkola<-
+sport=Futbal, league=2.Slovensko-východ, competitor=Lok.Košice<-
+sport=Futbal, league=3.Francúzsko, competitor=Boulogne<-
+sport=Futbal, league=2.Taliansko, competitor=Vicenza<-
+sport=Futbal, league=1.Bielorusko, competitor=FK Minsk<-
+sport=Futbal, league=3.Fínsko-západ, competitor=AIFK Turku<-
+sport=Futbal, league=1.Honduras, competitor=Marathón CD<-
+sport=Futbal, league=1.Grécko, competitor=OFI Kreta<-
+sport=Futbal, league=1.Guatemala, competitor=Halcones<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Ferrol<-
+sport=Futbal, league=3.Francúzsko, competitor=Les Herbiers<-
+sport=Futbal, league=1.Paraguay, competitor=Olimpia A.<-
+sport=Futbal, league=2.Anglicko, competitor=Burnley<-
+sport=Futbal, league=2.Rusko, competitor=Tambov<-
+sport=Futbal, league=3.Anglicko, competitor=Notts C.<-
+sport=Futbal, league=3.Francúzsko, competitor=Chateauroux<-
+sport=Futbal, league=4.Škótsko, competitor=Annan<-
+sport=Futbal, league=2.Brazília, competitor=Náutico PE<-
+sport=Futbal, league=1.Brazília, competitor=Corinthians<-
+sport=Futbal, league=3.Fínsko-juh, competitor=NJS<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Oskarshamns<-
+sport=Futbal, league=1.Chorvátsko, competitor=Zaprešič<-
+sport=Futbal, league=1.Malta, competitor=Qormi<-
+sport=Futbal, league=2.Belgicko, competitor=St.Gilloise<-
+sport=Futbal, league=2.Škótsko, competitor=Rangers<-
+sport=Futbal, league=1.Chile, competitor=S.Marcos Arica<-
+sport=Futbal, league=2.Mexiko, competitor=Lobos BUAP<-
+sport=Futbal, league=1.Holandsko, competitor=Nijmegen<-
+sport=Futbal, league=1.Cyprus, competitor=Paphos<-
+sport=Futbal, league=1.Belgicko, competitor=FC Brugge<-
+sport=Futbal, league=1.Katar, competitor=Al Shamal<-
+sport=Futbal, league=2.Brazília, competitor=Botafogo<-
+sport=Futbal, league=1.Maďarsko, competitor=Videoton Feh.<-
+sport=Futbal, league=1.Slovinsko, competitor=Velenje<-
+sport=Futbal, league=2.Taliansko, competitor=Varese<-
+sport=Futbal, league=1.N.Zéland, competitor=Auckland City<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Sereď<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Moss<-
+sport=Futbal, league=2.Francúzsko, competitor=Nancy<-
+sport=Futbal, league=2.Anglicko, competitor=Ipswich<-
+sport=Futbal, league=2.Brazília, competitor=Vasco da Gama RJ<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Granada B<-
+sport=Futbal, league=3.Taliansko A, competitor=Novara<-
+sport=Futbal, league=2.Anglicko, competitor=Preston<-
+sport=Futbal, league=3.Francúzsko, competitor=Chambly<-
+sport=Futbal, league=3.Nemecko, competitor=Aue<-
+sport=Futbal, league=2.Belgicko, competitor=Coxyde<-
+sport=Futbal, league=1.Švajčiarsko, competitor=Lausanne<-
+sport=Futbal, league=1.Lotyšsko, competitor=Jelgava<-
+sport=Futbal, league=1.Francúzsko, competitor=Nice<-
+sport=Futbal, league=1.Nemecko, competitor=Paderborn<-
+sport=Futbal, league=1.Španielsko, competitor=Eibar<-
+sport=Futbal, league=1.Taliansko, competitor=Cagliari<-
+sport=Futbal, league=1.Škótsko, competitor=Motherwell<-
+sport=Futbal, league=1.Argentína, competitor=Lanús<-
+sport=Futbal, league=2.Česko, competitor=Sokolov<-
+sport=Futbal, league=3.Taliansko C, competitor=Catania<-
+sport=Futbal, league=2.Rakúsko, competitor=BW Linz<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Höllviken<-
+sport=Futbal, league=1.Česko, competitor=Boh.1905<-
+sport=Futbal, league=3.Francúzsko, competitor=Epinal<-
+sport=Futbal, league=1.Česko, competitor=Liberec<-
+sport=Futbal, league=1.SAE, competitor=Al Ahli<-
+sport=Futbal, league=1.Honduras, competitor=Juticalpa CD<-
+sport=Futbal, league=3.Francúzsko, competitor=FC Paris<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Vasalund<-
+sport=Futbal, league=2.Chile, competitor=Nublense<-
+sport=Futbal, league=1.Dánsko, competitor=Aalborg<-
+sport=Futbal, league=1.Švédsko, competitor=Sundsvall<-
+sport=Futbal, league=3.Škótsko, competitor=Cowdenbeath<-
+sport=Futbal, league=1.Kanada, competitor=Waterloo<-
+sport=Futbal, league=3.Taliansko B, competitor=Tuttocuoio<-
+sport=Futbal, league=4.Škótsko, competitor=Stirling<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=Mjolner<-
+sport=Futbal, league=1.Škótsko, competitor=St.Mirren<-
+sport=Futbal, league=2.Nórsko, competitor=Sandnes<-
+sport=Futbal, league=1.Maďarsko, competitor=Pápa<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Arandina<-
+sport=Futbal, league=2.Portugalsko, competitor=U.Madeira<-
+sport=Futbal, league=3.Taliansko A, competitor=Lumezzane<-
+sport=Futbal, league=1.Uruguay, competitor=Cerro<-
+sport=Futbal, league=3.Fínsko B, competitor=Atlantis<-
+sport=Futbal, league=1.Taliansko, competitor=Sampdoria<-
+sport=Futbal, league=1.Ukrajina, competitor=Luhaňsk<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Västeras<-
+sport=Futbal, league=1.Island, competitor=Leik.Reykjavik<-
+sport=Futbal, league=2.Portugalsko, competitor=Feirense<-
+sport=Futbal, league=1.Uruguay, competitor=Peňarol<-
+sport=Futbal, league=3.Fínsko A, competitor=MPS Helsinki<-
+sport=Futbal, league=1.Guatemala, competitor=Coatepeque<-
+sport=Futbal, league=2.Mexiko, competitor=Oaxaca<-
+sport=Futbal, league=1.Kostarika, competitor=Carmelita<-
+sport=Futbal, league=1.Brazília, competitor=Sp. Recife<-
+sport=Futbal, league=1.USA, competitor=Kansas<-
+sport=Futbal, league=1.Ukrajina, competitor=Zaporožie<-
+sport=Futbal, league=1.Paraguay, competitor=Gen.Caballero<-
+sport=Futbal, league=1.Holandsko, competitor=Den Haag<-
+sport=Futbal, league=1.Nórsko, competitor=Molde<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Halmia<-
+sport=Futbal, league=3.Fínsko-juh, competitor=Gnistan<-
+sport=Futbal, league=2.Rusko, competitor=Fak.Voronez<-
+sport=Futbal, league=2.Rusko, competitor=Fak.Voronež<-
+sport=Futbal, league=2.Fínsko, competitor=Jaro<-
+sport=Futbal, league=1.Argentína, competitor=U.Santa Fe<-
+sport=Futbal, league=1.Turecko, competitor=Kasimpasa<-
+sport=Futbal, league=1.Španielsko, competitor=Gijón<-
+sport=Futbal, league=2.Izrael, competitor=Ironi Ashdod<-
+sport=Futbal, league=1.Nórsko, competitor=Sandefjord<-
+sport=Futbal, league=3.Fínsko-východ, competitor=Klubi 04<-
+sport=Futbal, league=1.USA, competitor=Orlando C.<-
+sport=Futbal, league=2.Brazília, competitor=Ponte Preta<-
+sport=Futbal, league=2.Portugalsko, competitor=Atlético CP Lis.<-
+sport=Futbal, league=1.Argentína, competitor=San Martín<-
+sport=Futbal, league=1.Mexiko, competitor=Morelia<-
+sport=Futbal, league=1.Estónsko, competitor=Nomme Kalju<-
+sport=Futbal, league=1.Dánsko, competitor=Bröndby<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Najran SC<-
+sport=Futbal, league=2.Nemecko, competitor=Ingolstadt<-
+sport=Futbal, league=2.Poľsko, competitor=Biel.Biala<-
+sport=Futbal, league=1.Česko, competitor=Jablonec<-
+sport=Futbal, league=1.Katar, competitor=Lekhwiya<-
+sport=Futbal, league=1.Bolívia, competitor=Univ.Pando<-
+sport=Futbal, league=2.Mexiko, competitor=Min.Zacatecas<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Vidar<-
+sport=Futbal, league=1.Kanada, competitor=London City<-
+sport=Futbal, league=1.Vietnam, competitor=TDCS Dong Thap<-
+sport=Futbal, league=1.Grécko, competitor=Iraklis 1908<-
+sport=Futbal, league=1.Nemecko, competitor=Freiburg<-
+sport=Futbal, league=2.Dánsko, competitor=Viborg<-
+sport=Futbal, league=2.Španielsko, competitor=Elche<-
+sport=Futbal, league=2.Dánsko, competitor=Lyngby<-
+sport=Futbal, league=2.Anglicko, competitor=Birmingham<-
+sport=Futbal, league=1.Portugalsko, competitor=Penafiel<-
+sport=Futbal, league=3.Škótsko, competitor=Albion Rov.<-
+sport=Futbal, league=2.Taliansko, competitor=Salernitana<-
+sport=Futbal, league=1.Guatemala, competitor=Cobán<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Forde<-
+sport=Futbal, league=1.Kostarika, competitor=Uruguay<-
+sport=Futbal, league=1.Lotyšsko, competitor=Rigas<-
+sport=Futbal, league=2.Brazília, competitor=Luverdense MT<-
+sport=Futbal, league=Fortuna liga, competitor=Slovan<-
+sport=Futbal, league=1.Bosna/Herc., competitor=Zrinjski Mostar<-
+sport=Futbal, league=2.Portugalsko, competitor=Olhao<-
+sport=Futbal, league=1.Srbsko, competitor=Sp.Subotica<-
+sport=Futbal, league=3.Fínsko-západ, competitor=MaPS<-
+sport=Futbal, league=1.Brazília, competitor=Coritiba<-
+sport=Futbal, league=1.Guatemala, competitor=D.Malacateco<-
+sport=Futbal, league=2.Fínsko, competitor=JJK Jyväskylä<-
+sport=Futbal, league=1.Španielsko, competitor=Almería<-
+sport=Futbal, league=2.Anglicko, competitor=Nottingham<-
+sport=Futbal, league=3.Fínsko-východ, competitor=Kiffen<-
+sport=Futbal, league=3.Francúzsko, competitor=Beziers<-
+sport=Futbal, league=1.Dánsko, competitor=Hobro<-
+sport=Futbal, league=2.Nemecko, competitor=St.Pauli<-
+sport=Futbal, league=1.Dánsko, competitor=Vestsjael.<-
+sport=Futbal, league=1.Kolumbia, competitor=Independ.M.<-
+sport=Futbal, league=1.Honduras, competitor=Victoria CD<-
+sport=Futbal, league=2.Poľsko, competitor=Katowice<-
+sport=Futbal, league=1.Francúzsko, competitor=Nantes<-
+sport=Futbal, league=1.Mexiko, competitor=Querétaro<-
+sport=Futbal, league=1.Argentína, competitor=Quilmes<-
+sport=Futbal, league=2.Izrael, competitor=Mac.Yavne<-
+sport=Futbal, league=1.Japonsko, competitor=Kofu<-
+sport=Futbal, league=5.Anglicko, competitor=Kiddermin.<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Velké Ludince<-
+sport=Futbal, league=3.Nemecko, competitor=FSV Frankfurt<-
+sport=Futbal, league=2.Holandsko, competitor=Dordrecht<-
+sport=Futbal, league=3.Nórsko-sk.1, competitor=KFUM Oslo<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Santander<-
+sport=Futbal, league=3.Fínsko C, competitor=TP 47<-
+sport=Futbal, league=2.Holandsko, competitor=Helmond<-
+sport=Futbal, league=1.Venezuela, competitor=Estud. de Mérida<-
+sport=Futbal, league=3.Taliansko B, competitor=Lupa Roma<-
+sport=Futbal, league=1.Nemecko, competitor=Mainz<-
+sport=Futbal, league=1.Taliansko, competitor=Atalanta<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Tvaakers<-
+sport=Futbal, league=2.Brazília, competitor=Atletico GO<-
+sport=Futbal, league=1.Turecko, competitor=Trabzon<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Irún<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=San Roque de Lepe<-
+sport=Futbal, league=2.Brazília, competitor=Macae<-
+sport=Futbal, league=1.J.Afrika, competitor=Polokwane<-
+sport=Futbal, league=Fortuna liga, competitor=Trenčín<-
+sport=Futbal, league=1.Vietnam, competitor=Da Nang<-
+sport=Futbal, league=2.Brazília, competitor=Paysandu PA<-
+sport=Futbal, league=1.Írsko, competitor=St.Patricks<-
+sport=Futbal, league=2.Brazília, competitor=Mogi Mirim<-
+sport=Futbal, league=2.Dánsko, competitor=Naestved<-
+sport=Futbal, league=2.Nórsko, competitor=Bryne<-
+sport=Futbal, league=1.Chorvátsko, competitor=Vinkovci<-
+sport=Futbal, league=1.Kolumbia, competitor=La Equidad<-
+sport=Futbal, league=2.Portugalsko, competitor=Aves<-
+sport=Futbal, league=3.Nemecko, competitor=Munster<-
+sport=Futbal, league=2.Francúzsko, competitor=Lens<-
+sport=Futbal, league=1.Island, competitor=KR Reykj.<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Nybergsund<-
+sport=Futbal, league=1.J.Kórea, competitor=Ulsan<-
+sport=Futbal, league=1.Argentína, competitor=Independiente<-
+sport=Futbal, league=2.Dánsko, competitor=Fredericia<-
+sport=Futbal, league=1.Uruguay, competitor=Juventud<-
+sport=Futbal, league=2.Rakúsko, competitor=A.Salzburg<-
+sport=Futbal, league=1.Uruguay, competitor=Nacional<-
+sport=Futbal, league=2.Slovensko-východ, competitor=Teplička/V.<-
+sport=Futbal, league=1.Azerbajdžan, competitor=Zira<-
+sport=Futbal, league=1.Island, competitor=Breidablik<-
+sport=Futbal, league=1.Katar, competitor=Al Mesaimeer<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Östers IF<-
+sport=Futbal, league=3.Fínsko C, competitor=AC Kajaani<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=V.Haugesund<-
+sport=Futbal, league=1.Kanada, competitor=Niagara U.<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Floro<-
+sport=Futbal, league=4.Anglicko, competitor=Tranmere<-
+sport=Futbal, league=1.Uruguay, competitor=Liverpool M.<-
+sport=Futbal, league=2.Írsko, competitor=Limerick FC<-
+sport=Futbal, league=2.Írsko, competitor=Limerick 37<-
+sport=Futbal, league=3.Anglicko, competitor=Millwall<-
+sport=Futbal, league=4.Škótsko, competitor=Berwick<-
+sport=Futbal, league=1.Chile, competitor=Santiago W.<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Guadalajara<-
+sport=Futbal, league=3.Fínsko-východ, competitor=Lahti FC (Am.)<-
+sport=Futbal, league=1.Fínsko, competitor=Rovaniemi<-
+sport=Futbal, league=2.Turecko, competitor=Adana Demir<-
+sport=Futbal, league=3.Taliansko C, competitor=Messina<-
+sport=Futbal, league=2.Portugalsko, competitor=Oriental<-
+sport=Futbal, league=1.Brazília, competitor=Flamengo RJ<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Algeciras<-
+sport=Futbal, league=1.Nemecko, competitor=Ingolstadt<-
+sport=Futbal, league=2.Poľsko, competitor=Tychy<-
+sport=Futbal, league=1.Izrael, competitor=Beitar Jerus.<-
+sport=Futbal, league=1.Bahrajn, competitor=Al Ahli Manama<-
+sport=Futbal, league=2.Japonsko, competitor=Kam.Sanuki<-
+sport=Futbal, league=1.J.Afrika, competitor=K.Chiefs<-
+sport=Futbal, league=1.Litva, competitor=Suduva<-
+sport=Futbal, league=2.Írsko, competitor=Drogheda U.<-
+sport=Futbal, league=5.Anglicko, competitor=Macclesfield<-
+sport=Futbal, league=1.SAE, competitor=Emirates Club<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Prespa Birlik<-
+sport=Futbal, league=1.Kostarika, competitor=Dep.Saprissa<-
+sport=Futbal, league=1.J.Afrika, competitor=Supersport Utd.<-
+sport=Futbal, league=1.Turecko, competitor=Osmanli<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Pors Grenland<-
+sport=Futbal, league=1.Poľsko, competitor=Legia<-
+sport=Futbal, league=2.Chile, competitor=S.Morning<-
+sport=Futbal, league=5.Anglicko, competitor=Barnet<-
+sport=Futbal, league=2.Taliansko, competitor=Pro Vercelli<-
+sport=Futbal, league=1.Singapur, competitor=Albirex Niigata<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Fyllingsdalen<-
+sport=Futbal, league=3.Fínsko-západ, competitor=P Iirot<-
+sport=Futbal, league=3.Taliansko A, competitor=Venezia<-
+sport=Futbal, league=1.Malta, competitor=Birkirkara<-
+sport=Futbal, league=4.Anglicko, competitor=Accrington<-
+sport=Futbal, league=3.Francúzsko, competitor=Lucon<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Nemšová<-
+sport=Futbal, league=1.Holandsko, competitor=Utrecht<-
+sport=Futbal, league=1.Guatemala, competitor=Municipal<-
+sport=Futbal, league=1.Azerbajdžan, competitor=Qabala FK<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Nové Zámky<-
+sport=Futbal, league=1.Rumunsko, competitor=V.Constanta<-
+sport=Futbal, league=1.Peru, competitor=Cajamarca<-
+sport=Futbal, league=3.Fínsko-juh, competitor=PK Keski<-
+sport=Futbal, league=1.Ukrajina, competitor=Volyn Lutsk<-
+sport=Futbal, league=3.Španielsko-sk.4, competitor=Lorca<-
+sport=Futbal, league=1.Peru, competitor=San Martín<-
+sport=Futbal, league=2.Izrael, competitor=Hap.Katamon<-
+sport=Futbal, league=3.Francúzsko, competitor=Belfort<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Frankfurt<-
+sport=Futbal, league=4.Anglicko, competitor=Crawley<-
+sport=Futbal, league=1.Kanada, competitor=Croatia T.<-
+sport=Futbal, league=1.Rumunsko, competitor=Univ.Cluj<-
+sport=Futbal, league=3.Taliansko B, competitor=Ascoli<-
+sport=Futbal, league=1.Chile, competitor=Barnechea<-
+sport=Futbal, league=1.Wales, competitor=Connah s<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Notodden<-
+sport=Futbal, league=2.Švajčiarsko, competitor=FC Zürich<-
+sport=Futbal, league=1.Ukrajina, competitor=Karp.Lvov<-
+sport=Futbal, league=2.Portugalsko, competitor=Beira Mar<-
+sport=Futbal, league=2.Rusko, competitor=Tjumen<-
+sport=Futbal, league=1.Izrael, competitor=H.Tel Aviv<-
+sport=Futbal, league=1.Bulharsko, competitor=Lok.Sofia<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Lilleström B<-
+sport=Futbal, league=1.Nemecko, competitor=Hannover<-
+sport=Futbal, league=2.Belgicko, competitor=Cercle<-
+sport=Futbal, league=1.Turecko, competitor=Eskisehir<-
+sport=Futbal, league=1.Argentína, competitor=Aldosivi<-
+sport=Futbal, league=2.Portugalsko, competitor=Farense<-
+sport=Futbal, league=3.Fínsko-sever, competitor=OPS Oulu<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Egersund<-
+sport=Futbal, league=1.Mexiko, competitor=C.Leon<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Umea<-
+sport=Futbal, league=1.Anglicko, competitor=Stoke<-
+sport=Futbal, league=1.Grécko, competitor=AEK Atény<-
+sport=Futbal, league=1.Anglicko, competitor=Q.P.R.<-
+sport=Futbal, league=2.Španielsko, competitor=Girona<-
+sport=Futbal, league=1.Ekvádor, competitor=Indep.Valle<-
+sport=Futbal, league=2.Francúzsko, competitor=Nimes<-
+sport=Futbal, league=1.Wales, competitor=Cefn Druids<-
+sport=Futbal, league=1.Guatemala, competitor=Mictlan<-
+sport=Futbal, league=2.Belgicko, competitor=Lommel<-
+sport=Futbal, league=1.Portugalsko, competitor=Boavista<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Cacereno<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Gabčíkovo<-
+sport=Futbal, league=2.Francúzsko, competitor=Strasbourg<-
+sport=Futbal, league=4.Anglicko, competitor=Wycombe<-
+sport=Futbal, league=2.Švédsko, competitor=Ljungskile<-
+sport=Futbal, league=1.Argentína, competitor=Huracán<-
+sport=Futbal, league=1.Honduras, competitor=Platense CD<-
+sport=Futbal, league=1.Honduras, competitor=Motagua CD<-
+sport=Futbal, league=1.Kazachstan, competitor=Astana<-
+sport=Futbal, league=2.Švédsko, competitor=Bromma<-
+sport=Futbal, league=1.Belgicko, competitor=Club Brugge<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Faisaly<-
+sport=Futbal, league=1.Maďarsko, competitor=Mezökövesd<-
+sport=Futbal, league=3.Francúzsko, competitor=Bastia CA<-
+sport=Futbal, league=1.Venezuela, competitor=Caracas<-
+sport=Futbal, league=2.Turecko, competitor=Bolu<-
+sport=Futbal, league=3.Fínsko B, competitor=FC Espoo<-
+sport=Futbal, league=1.Peru, competitor=Dep.Municipal<-
+sport=Futbal, league=1.Ukrajina, competitor=Odessa<-
+sport=Futbal, league=1.Brazília, competitor=Avai Florianopolis<-
+sport=Futbal, league=1.J.Afrika, competitor=Jomo Cosmos<-
+sport=Futbal, league=2.Belgicko, competitor=Mons<-
+sport=Futbal, league=1.Rusko, competitor=Tosno<-
+sport=Futbal, league=1.Peru, competitor=Juan Aurich<-
+sport=Futbal, league=3.Anglicko, competitor=Swindon<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Norrby<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Real Madrid B<-
+sport=Futbal, league=3.Španielsko-sk.2, competitor=Mensajero<-
+sport=Futbal, league=3.Švédsko-sever, competitor=Nyköping<-
+sport=Futbal, league=1.Belgicko, competitor=Mechelen<-
+sport=Futbal, league=1.Česko, competitor=Slovácko<-
+sport=Futbal, league=3.Fínsko-sever, competitor=GBK Kokkola<-
+sport=Futbal, league=1.Izrael, competitor=M.Tel Aviv<-
+sport=Futbal, league=1.Maďarsko, competitor=Vasas<-
+sport=Futbal, league=1.Rakúsko, competitor=Altach<-
+sport=Futbal, league=1.Fínsko, competitor=Ilves T.<-
+sport=Futbal, league=1.Mexiko, competitor=Cruz Azul<-
+sport=Futbal, league=2.Fínsko, competitor=Mikkeli<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Sola<-
+sport=Futbal, league=1.Francúzsko, competitor=Lorient<-
+sport=Futbal, league=2.Argentína, competitor=Inst.Cordoba<-
+sport=Futbal, league=1.Argentína, competitor=Belgrano<-
+sport=Futbal, league=2.Švédsko, competitor=Ängelholm<-
+sport=Futbal, league=1.Lotyšsko, competitor=Metta LU<-
+sport=Futbal, league=1.Bahrajn, competitor=Malkiya<-
+sport=Futbal, league=3.Anglicko, competitor=Wigan<-
+sport=Futbal, league=4.Anglicko, competitor=Dagenham<-
+sport=Futbal, league=1.Bahrajn, competitor=Al Shabbab Manama<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Strömsgodset B<-
+sport=Futbal, league=1.Azerbajdžan, competitor=Khazar Lankaran<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Galanta<-
+sport=Futbal, league=1.Portugalsko, competitor=Arouca<-
+sport=Futbal, league=1.Kostarika, competitor=Alajuelense<-
+sport=Futbal, league=5.Anglicko, competitor=Bromley<-
+sport=Futbal, league=Fortuna liga, competitor=Košice<-
+sport=Futbal, league=1.Salvádor, competitor=Juv.Independiente<-
+sport=Futbal, league=4.Anglicko, competitor=Portsmouth<-
+sport=Futbal, league=1.Srbsko, competitor=Voj.Novi Sad<-
+sport=Futbal, league=1.Nemecko, competitor=Bayern<-
+sport=Futbal, league=2.USA, competitor=Tampa Bay<-
+sport=Futbal, league=1.Čína, competitor=Liaoning<-
+sport=Futbal, league=1.Estónsko, competitor=Parnu Linnameeskond<-
+sport=Futbal, league=3.Nemecko, competitor=Magdeburg<-
+sport=Futbal, league=1.Argentína, competitor=Tucumán<-
+sport=Futbal, league=1.Panama, competitor=Chepo<-
+sport=Futbal, league=1.Cyprus, competitor=APOEL Nic.<-
+sport=Futbal, league=2.Česko, competitor=Táborsko<-
+sport=Futbal, league=2.Izrael, competitor=Mac.Ahi Nazareth<-
+sport=Futbal, league=3.Španielsko-sk.3, competitor=Hercules<-
+sport=Futbal, league=2.Taliansko, competitor=Latina<-
+sport=Futbal, league=1.Slovinsko, competitor=Domžale<-
+sport=Futbal, league=1.Vietnam, competitor=Hanoi TT<-
+sport=Futbal, league=2.Anglicko, competitor=Bris.City<-
+sport=Futbal, league=1.Bolívia, competitor=Jorge Wilstermann<-
+sport=Futbal, league=1.Vietnam, competitor=Can Tho<-
+sport=Futbal, league=2.Holandsko, competitor=Jong PSV<-
+sport=Futbal, league=1.Kolumbia, competitor=Tolima<-
+sport=Futbal, league=3.Nemecko, competitor=Kiel<-
+sport=Futbal, league=1.Poľsko, competitor=Plock<-
+sport=Futbal, league=2.Belgicko, competitor=St.Truiden<-
+sport=Futbal, league=1.Izrael, competitor=Ashdod<-
+sport=Futbal, league=1.Srbsko, competitor=Vozdovac<-
+sport=Futbal, league=1.Saudská Arábia, competitor=Al Khaleej<-
+sport=Futbal, league=1.Švédsko, competitor=Helsingborg<-
+sport=Futbal, league=1.Taliansko, competitor=Carpi<-
+sport=Futbal, league=2.Česko, competitor=Varnsdorf<-
+sport=Futbal, league=1.Chile, competitor=Huachipato<-
+sport=Futbal, league=1.Ekvádor, competitor=Dep.Quito<-
+sport=Futbal, league=1.Kolumbia, competitor=Millonarios<-
+sport=Futbal, league=2.Anglicko, competitor=Bolton<-
+sport=Futbal, league=1.Japonsko, competitor=Iwata<-
+sport=Futbal, league=1.Uruguay, competitor=Plaza Colonia<-
+sport=Futbal, league=2.Poľsko, competitor=Zabrze<-
+sport=Futbal, league=1.Chorvátsko, competitor=NK Split<-
+sport=Futbal, league=2.Švédsko, competitor=Trelleborg<-
+sport=Futbal, league=1.Izrael, competitor=Mac.Haifa<-
+sport=Futbal, league=2.Argentína, competitor=Boca Unidos<-
+sport=Futbal, league=3.Fínsko B, competitor=Aland<-
+sport=Futbal, league=1.Bolívia, competitor=Blooming SC<-
+sport=Futbal, league=2.Turecko, competitor=Karabuk<-
+sport=Futbal, league=3.Slovensko-západ, competitor=Dunajská Streda B<-
+sport=Futbal, league=1.India, competitor=Salgaocar<-
+sport=Futbal, league=1.Honduras, competitor=Vida<-
+sport=Futbal, league=1.Turecko, competitor=Kayseri<-
+sport=Futbal, league=1.Venezuela, competitor=Monagas<-
+sport=Futbal, league=2.Írsko, competitor=Cab.Dublin<-
+sport=Futbal, league=3.Fínsko A, competitor=Vaajakoski<-
+sport=Futbal, league=2.Anglicko, competitor=Huddersfield<-
+sport=Futbal, league=3.Taliansko A, competitor=Torres<-
+sport=Futbal, league=3.Švédsko-juh, competitor=Trollhättan<-
+sport=Futbal, league=3.Taliansko A, competitor=Vicenza<-
+sport=Futbal, league=2.Francúzsko, competitor=Metz<-
+sport=Futbal, league=1.Nemecko-ženy, competitor=Bayern<-
+sport=Futbal, league=1.Česko-ženy, competitor=Slavia<-
+sport=Futbal, league=1.Grécko, competitor=Kerkyra<-
+sport=Futbal, league=1.Taliansko, competitor=Sassuolo<-
+sport=Futbal, league=2.Slovensko-západ, competitor=N.Mesto n/V<-
+sport=Futbal, league=3.Česko, competitor=Most<-
+sport=Futbal, league=1.Peru, competitor=San Simon<-
+sport=Futbal, league=3.Taliansko B, competitor=Piacenza<-
+sport=Futbal, league=1.Bielorusko, competitor=Soligorsk<-
+sport=Futbal, league=1.Guatemala, competitor=Guastatoya<-
+sport=Futbal, league=3.Nórsko-sk.4, competitor=Brumunddal<-
+sport=Futbal, league=1.Mexiko, competitor=Pachuca<-
+sport=Futbal, league=2.Španielsko, competitor=Barcelona B<-
+sport=Futbal, league=2.Poľsko, competitor=Belchatow<-
+sport=Futbal, league=2.Poľsko, competitor=Ol.Grudziadz<-
+sport=Futbal, league=2.Japonsko, competitor=Okayama<-
+sport=Futbal, league=3.Nórsko-sk.3, competitor=Odda<-
+sport=Futbal, league=1.Chile, competitor=O Higgins<-
+sport=Futbal, league=2.Francúzsko, competitor=Orléans<-
+sport=Futbal, league=3.Nórsko-sk.2, competitor=Drammen FK<-
+sport=Futbal, league=3.Nemecko, competitor=Cottbus<-
+sport=Futbal, league=2.Holandsko, competitor=Breda<-
+sport=Futbal, league=2.Argentína, competitor=Gualeguaychu<-
+sport=Futbal, league=1.Izrael, competitor=Bn.Yehuda<-
+sport=Futbal, league=1.Wales, competitor=Llandudno<-
+sport=Futbal, league=4.Anglicko, competitor=Northampton<-
+sport=Futbal, league=1.Ukrajina, competitor=Oleksandria<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Slovan Br. B<-
+sport=Futbal, league=1.Fínsko, competitor=Inter Turku<-
+sport=Futbal, league=3.Španielsko-sk.1, competitor=Logrones<-
+sport=Futbal, league=3.Nemecko, competitor=Bremen am.<-
+sport=Futbal, league=3.Taliansko B, competitor=Santarcangelo<-
+sport=Futbal, league=1.Izrael, competitor=Hap.Ranana<-
+sport=Futbal, league=2.Slovensko-západ, competitor=Pohronie<-
+sport=Futbal, league=3.Česko, competitor=Lok.Vltavín<-
+sport=Futbal, league=2.Švajčiarsko, competitor=Wohlen<-
