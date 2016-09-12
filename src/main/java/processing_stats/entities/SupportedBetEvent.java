@@ -36,11 +36,11 @@ public class SupportedBetEvent extends CleanBetEvent {
     public String toString() {
         return "SupportedBetEvent{" +
                 "sport=" + sport +
-                ", league=" + league +
-                ", eventType=" + eventType +
-                ", homeCompetitor=" + homeCompetitor +
-                ", awayCompetitor=" + awayCompetitor +
-                ", cbe=" + cbe.events.size() +
+                "\n, league=" + league +
+                "\n, eventType=" + eventType +
+                "\n, homeCompetitor=" + homeCompetitor +
+                "\n, awayCompetitor=" + awayCompetitor +
+                "\n, cbe=" + cbe +
                 "}\n";
     }
 }

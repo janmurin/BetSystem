@@ -30,7 +30,8 @@ public class StatsGenerator {
     Set<String> unsupportedLeagues = new HashSet<>();
     Set<String> unsupportedEventTypes = new HashSet<>();
     Set<String> unsupportedCompetitors = new HashSet<>();
-    List<ComplexBetEvent> unsupportedCompetitorsEvents=new ArrayList<>();
+    List<ComplexBetEvent> unsupportedCompetitorsEvents = new ArrayList<>();
+    private int chybnychDat;
 
     /*
 - prechadza celu databazu a z celej ponuky vytiahne podporovane udalosti aby na ne mohol program stavit podla internej alebo externej statistiky
@@ -44,13 +45,19 @@ public class StatsGenerator {
 
     public void execute() {
         loadEntities();
+        // budeme zaznamenavat vyhry kazdemu competitorovi 1 vyhra, 0 remiza, -1 prehra
+        Map<Integer, StatistikaCompetitora> vyhryMap = new HashMap<>();
+        for (Competitor c : competitors) {
+            vyhryMap.put(c.id, new StatistikaCompetitora(c.id));
+        }
+
         Databaza db = new Databaza();
 
         Iterator<TipovaciDen> iterator = db.iterator();
         TipovaciDen den;
         int vsetkychComplexEventov = 0;
-        List<SupportedBetEvent> supportedEvents=new ArrayList<>();
-        int counter = 0;
+        List<SupportedBetEvent> supportedEvents = new ArrayList<>();
+
         while (iterator.hasNext()) {
             den = iterator.next();
             vsetkychComplexEventov += den.complexEventy.size();
@@ -58,11 +65,43 @@ public class StatsGenerator {
             System.out.println(den.den + ": pocet eventov: " + filteredEvents.size());
             supportedEvents.addAll(filteredEvents);
 
-            System.out.println("");
-            counter++;
-//            if (counter == 10) {
-//                break;
-//            }
+            // spracovanie supported eventov
+            // ulozime informaciu o vyhre/prehre k danym competitorom
+            for (SupportedBetEvent sbe : filteredEvents) {
+                boolean vyhralDomaci = false;
+                boolean remiza = false;
+                boolean vyhralHost = false;
+                for (CleanBetEvent cbe : sbe.cbe.events) {
+                    if (cbe.poznamka.equals("1") && cbe.vyherny) {
+                        vyhralDomaci = true;
+                    }
+                    if (cbe.poznamka.equals("0") && cbe.vyherny) {
+                        remiza = true;
+                    }
+                    if (cbe.poznamka.equals("2") && cbe.vyherny) {
+                        vyhralHost = true;
+                    }
+                }
+                if (!remiza && !vyhralDomaci && !vyhralHost) {
+                    System.out.println(sbe);
+                    chybnychDat++;
+                    continue;
+                    //throw new RuntimeException("nejednoznacny vysledok zapasu");
+                }
+                if (remiza) {
+                    vyhryMap.get(sbe.homeCompetitor.id).pridajRemizu();
+                    vyhryMap.get(sbe.awayCompetitor.id).pridajRemizu();
+                } else {
+                    if (vyhralDomaci) {
+                        vyhryMap.get(sbe.homeCompetitor.id).pridajVitazstvo();
+                        vyhryMap.get(sbe.awayCompetitor.id).pridajPrehru();
+                    } else {
+                        vyhryMap.get(sbe.homeCompetitor.id).pridajPrehru();
+                        vyhryMap.get(sbe.awayCompetitor.id).pridajVitazstvo();
+                    }
+                }
+            }
+
         }
 
         System.out.println("UNSUPPORTED");
@@ -88,25 +127,34 @@ public class StatsGenerator {
 
         System.out.println("Vsetkych supported complex eventov: " + supportedEvents.size());
         System.out.println("Vsetkych complex eventov: " + vsetkychComplexEventov);
-        System.out.println("unsupportedCompetitorsEvents: "+unsupportedCompetitorsEvents.size());
-       // System.out.println(unsupportedCompetitorsEvents);
+        System.out.println("unsupportedCompetitorsEvents: " + unsupportedCompetitorsEvents.size());
+        // System.out.println(unsupportedCompetitorsEvents);
 
-       //System.out.println(supportedEvents);
-        Writer out= null;
-        try{
+        //System.out.println(supportedEvents);
+        Writer out = null;
+        try {
             out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("src\\main\\resources\\output.txt"), "UTF-8"));
-            for(SupportedBetEvent sbe:supportedEvents){
-                out.write(sbe.toString());
+            // usporiadame competitorov podla poctu vitazstiev
+            List<StatistikaCompetitora> values = new ArrayList<>();
+            for (Integer key : vyhryMap.keySet()) {
+                values.add(vyhryMap.get(key));
+            }
+            Collections.sort(values);
+//            for (SupportedBetEvent sbe : supportedEvents) {
+//                out.write(sbe.toString());
+//            }
+            for (StatistikaCompetitora st : values) {
+                out.write(st + "________" + competitors.get(st.getCompetitorID()).toString() + "\n");
             }
             out.flush();
-        } catch(UnsupportedEncodingException ex) {
-            Logger.getLogger(Text2jsonParser.class.getName()).log(Level.SEVERE, null, ex);
-        } catch(FileNotFoundException ex) {
-            Logger.getLogger(Text2jsonParser.class.getName()).log(Level.SEVERE, null, ex);
-        } catch(IOException ex) {
-            Logger.getLogger(Text2jsonParser.class.getName()).log(Level.SEVERE, null, ex);
-        } finally{
-            if (out!= null) {
+        } catch (UnsupportedEncodingException ex) {
+            Logger.getLogger(StatsGenerator.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(StatsGenerator.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(StatsGenerator.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            if (out != null) {
                 try {
                     out.close();
                 } catch (IOException e) {
@@ -114,6 +162,8 @@ public class StatsGenerator {
                 }
             }
         }
+
+        System.out.println("chybnych zapasov: " + chybnychDat);
     }
 
 
@@ -193,14 +243,41 @@ public class StatsGenerator {
         try {
             countries = mapper.readValue(new File("src\\main\\resources\\countries.json"), new TypeReference<List<Country>>() {
             });
+            // skontrolujeme competitorov ci su spravne usporiadani
+            for (int i = 0; i < countries.size(); i++) {
+                if (i != countries.get(i).id) {
+                    throw new RuntimeException("chyba databazy: i!=country.id");
+                }
+            }
             sports = mapper.readValue(new File("src\\main\\resources\\sports.json"), new TypeReference<List<Sport>>() {
             });
+//            for (int i = 0; i < sports.size(); i++) {
+//                if (i != sports.get(i).id) {
+//                    throw new RuntimeException("chyba databazy: i!=sports.id");
+//                }
+//            }
             leagues = mapper.readValue(new File("src\\main\\resources\\leagues.json"), new TypeReference<List<League>>() {
             });
+            for (int i = 0; i < leagues.size(); i++) {
+                if (i != leagues.get(i).id) {
+                    throw new RuntimeException("chyba databazy: i!=leagues.id");
+                }
+            }
             eventTypes = mapper.readValue(new File("src\\main\\resources\\eventTypes.json"), new TypeReference<List<EventType>>() {
             });
+//            for (int i = 0; i < eventTypes.size(); i++) {
+//                if (i != eventTypes.get(i).id) {
+//                    throw new RuntimeException("chyba databazy: i!=eventTypes.id");
+//                }
+//            }
             competitors = mapper.readValue(new File("src\\main\\resources\\competitors.json"), new TypeReference<List<Competitor>>() {
             });
+            // skontrolujeme competitorov ci su spravne usporiadani
+            for (int i = 0; i < competitors.size(); i++) {
+                if (i != competitors.get(i).id) {
+                    throw new RuntimeException("chyba databazy: i!=competitor.id");
+                }
+            }
         } catch (IOException ex) {
             Logger.getLogger(StatsGenerator.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -250,12 +327,12 @@ public class StatsGenerator {
         Competitor c1 = new Competitor();
         c1.name = strings[0];
         //c1.league_ID = league.id;
-        c1.country_id=league.country_ID;
+        c1.country_id = league.country_ID;
         c1.sport_ID = sport.id;
         Competitor c2 = new Competitor();
         c2.name = strings[1];
         //c2.league_ID = league.id;
-        c2.country_id=league.country_ID;
+        c2.country_id = league.country_ID;
         c2.sport_ID = sport.id;
         // nastavime hladaneho competitora aby ked sa nenajde sme vedeli jeho meno si zaznamenat aspon
         supported[0] = c1;
